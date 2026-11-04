@@ -147,6 +147,7 @@ ROLE = [
     "study delivery", "study management", "global clinical",
     "business", "management", "transformation", "portfolio", "advisory",
     "due diligence", "future leaders", "leadership development",
+    "life sciences", "life science", "healthcare", "health care", "pharma", "pharmaceutical", "biotech",
 ]
 LEVEL = [
     "graduate", "grad", "2027", "2028", "associate", "analyst", "entry level",
