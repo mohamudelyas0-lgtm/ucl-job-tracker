@@ -1,12 +1,12 @@
 # Graduate job tracker - Elyas Mohamud
 
-_Last updated: 2026-11-04 15:15 UTC. Auto-refreshed every 8 hours. Edit `status`/`notes` in `tracker.csv`; edit firms in `targets.csv`._
+_Last updated: 2026-11-04 15:55 UTC. Auto-refreshed every 8 hours. Edit `status`/`notes` in `tracker.csv`; edit firms in `targets.csv`._
 
 ## New this run (0)
 
 Nothing new since the last check.
 
-## Live postings found (9)
+## Live postings found (39)
 
 | Found | Company | Role | Location | Salary | Status | Link |
 |---|---|---|---|---|---|---|
@@ -19,13 +19,43 @@ Nothing new since the last check.
 | 2026-11-04 | Lumanity | Associate Consultant - Value & Access | London |  | new | [open](https://lumanity.com/careers/) |
 | 2026-11-04 | IQVIA | Graduate Intern - Life Science Consulting (6 months - can convert to permanent) | London |  | new | [open](https://jobs.iqvia.com/job/london/graduate-intern-life-science-consulting/24443/19437372) |
 | 2026-11-04 | Teneo | Associate Consultant, Management Consulting | London | £45,000-£47,000 (reported) | applied | [open](https://www.teneo.com/careers/open-positions/) |
+| 2026-11-04 | Cairneagle | Graduate Programme 2027 - Consultant (Feb & Sep 2027 starts) | London | Competitive + bonus + profit share | new | [open](https://www.cairneagle.com/work-with-us/graduate-hires/) |
+| 2026-11-04 | Cairneagle | Interns | London |  | new | [open](https://www.cairneagle.com/work-with-us/interns/) |
+| 2026-11-04 | Kx Advisors | Fall 2027 Associate Consultant, Life Sciences Strategy | London |  | new | [open](https://uk.linkedin.com/jobs/view/fall-2027-associate-consultant-life-sciences-strategy-at-kx-advisors-4469197992) |
+| 2026-11-04 | ZS Associates | Pharmaceutical Market Access & Payer Strategy Associate Consultant | Multiple (check for London) |  | new | [open](https://jobs.zs.com/jobs/67323?lang=en-us) |
+| 2026-11-04 | ZS Associates | Strategy Consulting Associate Consultant | Multiple (check for London) |  | new | [open](https://jobs.zs.com/jobs/67978?lang=en-us) |
+| 2026-11-04 | ZS Associates | Associate Consultant - Logistics & Distribution (Supply Chain Transformation) | Multiple |  | new | [open](https://jobs.zs.com/jobs/24443?lang=en-us) |
+| 2026-11-04 | ZS Associates | Clinical Trials - Associate Consultant | Frankfurt, Germany |  | new | [open](https://jobs.zs.com/jobs/63348?lang=en-us) |
+| 2026-11-04 | Clarivate | Associate Consultant - Customer Strategy and Commercialization | London |  | new | [open](https://uk.linkedin.com/jobs/view/associate-consultant-%E2%80%93-customer-strategy-and-commercialization-at-clarivate-4468681094) |
+| 2026-11-04 | Clarivate | Associate Consultant, Commercial Consulting | London |  | new | [open](https://uk.linkedin.com/jobs/view/associate-consultant-commercial-consulting-at-clarivate-4444417960) |
+| 2026-11-04 | Veeva Systems | Associate Business Consultant - Life Sciences Consulting | London | £45k (employer-provided, per Glassdoor listing) | new | [open](https://uk.linkedin.com/jobs/view/associate-business-consultant-life-sciences-consulting-at-veeva-systems-4479348256) |
+| 2026-11-04 | OC&C Strategy | Associate Consultant Summer Internship 2027 (London) | London |  | new | [open](https://careers.occstrategy.com/vacancies/392/associate-consultant-summer-internship-2027-london-office.html) |
+| 2026-11-04 | Pierre Fabre | Pierre Fabre Graduate Scheme - Pharmaceutical Division | Chiswick, London |  | new | [open](https://uk.linkedin.com/jobs/view/pierre-fabre-graduate-scheme-pharmaceutical-division-at-laboratoires-pierre-fabre-4484072885) |
+| 2026-11-04 | Johnson & Johnson Innovative Medicine | Pharmaceutical Sales Graduate - Immunology - South London | London / Maidenhead |  | new | [open](https://uk.linkedin.com/jobs/view/pharmaceutical-sales-graduate-immunology-south-london-at-johnson-johnson-innovative-medicine-4486858270) |
+| 2026-11-04 | Tanner Pharma Group | Business Analyst & Strategy Associate (CTS) | St Albans |  | new | [open](https://uk.linkedin.com/jobs/view/business-analyst-strategy-associate-cts-at-tanner-pharma-group-4475232789) |
+| 2026-11-04 | EY | Consulting Graduate Programmes - September 2027 intake | London + regions |  | new | [open](https://targetjobs.co.uk/graduate-jobs/consulting) |
+| 2026-11-04 | Avalere Health | Global Graduate Program / Internship Program (Advisory) | London / global |  | new | [open](https://avalerehealth.com/careers/graduate-program) |
+| 2026-11-04 | Novo Nordisk | Graduate Programme 2027 - Global Market Access / Supply Chain / Commercial Marketing / Business & People Strategy | Copenhagen, Denmark | Competitive | new | [open](https://www.novonordisk.com/careers/early-career-programmes/graduate.html) |
+| 2026-11-04 | Teneo | Management Consulting, Associate Consultant / Graduate | Dubai, UAE |  | new | [open](https://ae.linkedin.com/jobs/view/management-consulting-associate-consultant-graduate-at-teneo-4484270186) |
+| 2026-11-04 | EY | EY Dubai - Consulting Graduate Program FY27 | Dubai, UAE |  | new | [open](https://ae.linkedin.com/jobs/view/ey-dubai-consulting-graduate-program-fy27-at-ey-4476272304) |
+| 2026-11-04 | L.E.K. Consulting | Munich Office - Life Sciences Associate (entry level) - Start October 2027 | Munich, Germany |  | new | [open](https://de.linkedin.com/jobs/view/munich-office-life-sciences-associate-m-f-d-entry-level-position-start-october-2027-at-l-e-k-consulting-4481824155) |
+| 2026-11-04 | Charles River Associates | Life Sciences Strategy Intern (2027 Start) | Munich, Germany |  | new | [open](https://de.linkedin.com/jobs/view/praktikant-in-life-sciences-strategieberatung-life-sciences-intern-2027-start-m-f-d-at-charles-river-associates-4480488395) |
+| 2026-11-04 | Accenture DACH | Strategy Life Science Analyst | Kronberg, Germany |  | new | [open](https://de.linkedin.com/jobs/view/strategy-life-science-analyst-all-genders-at-accenture-dach-4477293395) |
+| 2026-11-04 | Gupta Strategists | Junior Strategy Consultant (MSc/PhD) | Amsterdam, Netherlands |  | new | [open](https://nl.linkedin.com/jobs/view/strategieconsultant-junior-msc-phd-at-gupta-strategists-4486143811) |
+| 2026-11-04 | Huron (Innosight) | Consulting Associate - Strategy & Innovation | Zurich, Switzerland |  | new | [open](https://ch.linkedin.com/jobs/view/consulting-associate-%E2%80%93-innosight-strategy-innovation-zurich-switzerland-at-huron-4481804869) |
+| 2026-11-04 | Abbott | Intern Strategy - Future Talent Program | Basel, Switzerland |  | new | [open](https://ch.linkedin.com/jobs/view/intern-strategy-future-talent-program-at-abbott-4479548855) |
+| 2026-11-04 | Abbott | Intern Portfolio Strategy & Innovation - Future Talent Program | Basel, Switzerland |  | new | [open](https://ch.linkedin.com/jobs/view/intern-portfolio-strategy-innovation-future-talent-program-at-abbott-4478562119) |
+| 2026-11-04 | Sanofi | Internship 6 months - Global Market Access and Pricing | Lyon, France |  | new | [open](https://fr.linkedin.com/jobs/view/internship-6-months-global-market-access-and-pricing-at-sanofi-4478508482) |
+| 2026-11-04 | Santen | Pricing and Market Access Intern | Amsterdam, Netherlands |  | new | [open](https://nl.linkedin.com/jobs/view/pricing-and-market-access-intern-at-santen-4480231973) |
+| 2026-11-04 | Elevio Group | Market Access Strategist - Internship | Paris, France |  | new | [open](https://fr.linkedin.com/jobs/view/market-access-strategist-internship-or-apprenticeship-paris-at-elevio-group-4486830572) |
+| 2026-11-04 | Alira Health | Analyst / Associate Consultant | Barcelona, Spain |  | new | [open](https://alirahealth.wd3.myworkdayjobs.com/en-US/AliraHealth/job/Barcelona/Associate-Consultant_JR000672) |
 
-## Target firms: Priority A - best fit for the MSc (28)
+## Target firms: Priority A - best fit for the MSc (30)
 
 | Firm | Programme | Salary | 2027 cycle status | Window | Notes |
 |---|---|---|---|---|---|
 | [Teneo (Management Consulting - ex-Credo)](https://www.teneo.com/careers/open-positions/) | Associate Consultant, Management Consulting | £45,000-£47,000 (Reported (Glassdoor/JobCrowd)) | IN PROCESS - you applied; assessment centre 20 Nov 2026. Not advertised publicly in London (Handshake listing closed 5 Oct 2026). | Sep-Oct (careers fairs + Greenhouse board 'teneolinkedin') | Generalist strategy incl. healthcare, PE, public sector. Sumaya Mohamed (UCL MPharm) went straight into AC - proof they take science grads. Ignore Teneo 'Strategy & Communications' / Financial Comms / Political roles - those are PR, not consulting. |
-| [Cairneagle](https://www.cairneagle.com/work-with-us/graduate-hires/) | Graduate Consultant / Associate (Feb & Sep 2027 starts) | est. £45,000-£50,000 + bonus + profit share (Estimate (not published)) | 2027 online assessment stage ended 1 Nov 2026 (aggregator). Email recruiting anyway - small firms often have late/rolling places, esp. Feb 2028 start. | Aug-Nov (only on own site + university portals) | Pharma/healthcare + consumer strategy and commercial due diligence. Life-science MSc is a direct fit. Not advertised on job boards - check site. |
+| [Cairneagle](https://www.cairneagle.com/work-with-us/graduate-hires/) | Graduate Consultant / Associate (Feb & Sep 2027 starts) | est. £45,000-£50,000 + bonus + profit share (Estimate (not published)) | OPEN (confirmed by you, 4 Nov 2026 - the aggregator saying it closed 1 Nov was wrong). Apply now via the graduate hires page. | Aug-Nov (only on own site + university portals) | Pharma/healthcare + consumer strategy and commercial due diligence. Life-science MSc is a direct fit. Not advertised on job boards - check site. |
 | [ClearView Healthcare Partners](https://job-boards.greenhouse.io/clearviewhealthcarepartners) | Life Sciences Strategy Analyst (Sept 2027 start - cohort starts 13 Sep 2027) | est. £40,000-£48,000 (Estimate (Glassdoor £35-40k is low/stale)) | Listed deadline 30 Oct 2026 - likely closed; Greenhouse board sometimes keeps a rolling 'September 2027 start' post. Check. | Aug-Oct | Pure biopharma strategy: pricing & market access, launch, corporate strategy. Requires life-science degree graduating Dec 2026-Aug 2027 - you fit exactly. Top-priority type of firm for your MSc. |
 | [L.E.K. Consulting](https://www.lek.com/join-lek) | Associate (entry level) - Life Sciences, London | £55,000-£63,000 (Estimate (Glassdoor)) | 2027 generalist window 18 Sep-25 Oct 2026 closed. Starts offered Mar 2027 / Oct 2027 / Mar 2028 - ask about later rounds for Mar 2028. | Sep-Oct (plus Jan round some years) | Biggest life-sciences strategy practice in London. One application per office per year. |
 | [ZS Associates](https://jobs.zs.com/jobs?keywords=london) | Strategy Associate Consultant - Pharmaceutical Pricing & Market Access / Associate Consultant | est. £40,000-£50,000 (Estimate) | OPEN (seen on jobs.zs.com 4 Nov 2026). Rolling hiring. | Rolling | Pharma commercial strategy, pricing & market access - maps to your Pharmacoeconomics + Commercialisation modules. Avoid ZS 'Decision Analytics' / data roles. |
@@ -52,8 +82,10 @@ Nothing new since the last check.
 | [AstraZeneca](https://careers.astrazeneca.com/operations-global-graduate-associates-programme) | Operations Global Graduate Associates Programme (supply chain pathway) | £32,500+ + bonus + relocation (Published (Times Top 100)) | 2027 intake not open yet (US version live, Sept 2027 start). | Nov-Jan | Supply chain/ops leadership rotations. |
 | [Pfizer UK](https://www.pfizer.co.uk/careers/early-careers) | Graduate Future Leaders / Graduate Trainee 2027-2029 (Commercial) | est. £35,000-£38,000 + car (Estimate) | Posting live (2027-2029 intake). | Oct-Dec | Marketing + sales rotations. Needs full clean driving licence for field territory. |
 | [Takeda UK](https://www.takeda.com/en-gb/careers/graduate-internship-programmes/) | Graduate Leadership Development Programme (Market Access / Marketing / Medical) | est. £35,000-£38,000 (Estimate) | Not verified for 2027 - check page. | Oct-Jan | 4 x 9-month placements incl. Market Access. Aimed at STEM grads - you fit. |
+| [Kx Advisors](https://kxadvisors.com/careers/) | Associate Consultant, Life Sciences Strategy (Fall 2027) | est. £45,000+ (Estimate) | OPEN - LinkedIn post ~late Oct 2026 (browser crawl 4 Nov). | Oct-Dec | Biopharma-only strategy boutique - very close match to the MSc. |
+| [Clarivate (Life Sciences Consulting, ex-DRG)](https://careers.clarivate.com/) | Associate Consultant - Customer Strategy & Commercialization / Commercial Consulting | est. £35,000-£42,000 (Estimate) | OPEN - two London posts (browser crawl 4 Nov). | Rolling | Pharma commercial consulting. |
 
-## Target firms: Priority B - strong backups (22)
+## Target firms: Priority B - strong backups (29)
 
 | Firm | Programme | Salary | 2027 cycle status | Window | Notes |
 |---|---|---|---|---|---|
@@ -79,6 +111,13 @@ Nothing new since the last check.
 | [Haleon](https://www.haleon.com/careers/early-careers) | Future Leaders Programme - Marketing / Supply Chain / Procurement | est. £35,000-£38,000 (Estimate) | Not verified. | Sep-Dec | Consumer health (ex-GSK). Avoid Finance/Data tracks. |
 | [Sanofi UK](https://www.sanofi.co.uk/en/careers) | Graduate Programme - Commercial / Supply Chain | est. £34,000-£37,000 (Estimate) | Not verified. | Oct-Jan |  |
 | [Eli Lilly UK](https://careers.lilly.com/) | Commercial / Market Access graduate roles | est. £35,000+ (Estimate) | Not verified. | Rolling |  |
+| [Veeva Systems (Business Consulting)](https://careers.veeva.com/) | Associate Business Consultant - Life Sciences Consulting | £45,000 (Employer-provided (Glassdoor)) | OPEN (crawl 4 Nov). | Rolling | Business consulting for pharma commercial teams. Skip Veeva's data/tech consulting posts. |
+| [Avalere Health](https://avalerehealth.com/careers/graduate-program) | Global Graduate Program (Advisory/Medical/Marketing rotations) + Internship Program | est. £30,000-£36,000 (Estimate) | Pages live (crawl 4 Nov). | Internships start Sept | Advisory = market access consulting. |
+| [Globe Life Sciences](https://globelifesciences.com/careers/) | Life Sciences Strategy Consulting Graduate Analyst 2027 | est. £35,000+ (Estimate) | 2027 analyst post seen (tracker site). | Autumn | Wants a 2:1 in a life-sciences discipline. |
+| [Pierre Fabre UK](https://www.pierre-fabre.com/en/careers) | Graduate Scheme - Pharmaceutical Division | unknown (-) | OPEN (crawl 4 Nov). | Oct-Dec | French pharma, UK commercial grad scheme. |
+| [Teneo (Dubai)](https://job-boards.greenhouse.io/teneolinkedin/jobs/8046232003) | Management Consulting, Associate Consultant - Graduate | est. AED tax-free (Estimate) | OPEN (crawl 4 Nov). | Rolling | Abroad backup to the London AC. Visa sponsored. |
+| [Gupta Strategists](https://gupta-strategists.nl/) | Junior Strategy Consultant (MSc/PhD) | est. EUR 50k+ (Estimate) | OPEN (crawl 4 Nov). | Rolling | Healthcare-only strategy boutique. Dutch likely needed. |
+| [Abbott (Established Pharma Division)](https://www.jobs.abbott/) | Future Talent Program internships - Strategy / Portfolio Strategy & Innovation / Global Market Access | CHF intern pay (-) | OPEN (crawl 4 Nov). | Rolling | Master's internships at pharma HQ. Needs a Swiss permit. |
 
 ## Target firms: Priority C - long shots / borderline (3)
 

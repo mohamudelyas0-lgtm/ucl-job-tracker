@@ -149,3 +149,18 @@ Prospects pharma graduate | https://www.prospects.ac.uk/graduate-jobs/pharmaceut
 PharmiWeb graduate | https://www.pharmiweb.jobs/jobs/graduate/
 Milkround life sciences consultant | https://www.milkround.com/jobs/life-science-consultant
 Opportunities feed consulting | https://opportunitiesfeed.com/tag/strategy-consulting-graduate-jobs-uk/
+
+# ===== Added 2026-11-04 after first crawl =====
+Kx Advisors careers | https://kxadvisors.com/careers/
+Clarivate careers LS consulting | https://careers.clarivate.com/
+Globe Life Sciences careers | https://globelifesciences.com/careers/
+Gupta Strategists werken bij | https://gupta-strategists.nl/werken-bij
+Abbott jobs Basel | https://www.jobs.abbott/us/en/search-results?keywords=intern%20basel
+CRA students & recent grads | https://www.crai.com/cra-careers/jobs/?level=Students%2FRecent+Graduates
+Guidehouse campus | https://guidehouse.wd1.myworkdayjobs.com/External?q=life%20sciences
+Cairneagle interns | https://www.cairneagle.com/work-with-us/interns/
+Avalere graduate program | https://avalerehealth.com/careers/graduate-program
+Lumanity early careers | https://lumanity.com/early-careers/
+LinkedIn - life sciences strategy associate 2027 UK | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=life%20sciences%20strategy%202027&location=United%20Kingdom&f_TPR=r2592000
+LinkedIn - pricing market access intern Europe | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=pricing%20market%20access%20intern&location=European%20Union&f_TPR=r604800
+LinkedIn - healthcare strategy consulting graduate UK | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=healthcare%20strategy%20consulting%20graduate&location=United%20Kingdom&f_TPR=r604800
