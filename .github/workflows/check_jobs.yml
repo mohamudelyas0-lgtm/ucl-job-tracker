@@ -1,0 +1,46 @@
+name: Check jobs
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"   # every 8 hours (00:00, 08:00, 16:00 UTC)
+  workflow_dispatch:         # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-jobs
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and push tracker updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tracker.csv
+          if git diff --cached --quiet; then
+            echo "No new roles."
+          else
+            git commit -m "Update tracker: new roles found $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi
