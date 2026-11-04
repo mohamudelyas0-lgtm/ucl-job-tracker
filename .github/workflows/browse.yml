@@ -1,0 +1,48 @@
+name: Browse careers pages
+
+# Real headless-browser crawl of every page in browse_list.txt.
+# Runs whenever browse.py / browse_list.txt change on this branch (so Claude can
+# trigger it by pushing), on demand, and once a day.
+on:
+  push:
+    paths:
+      - browse.py
+      - browse_list.txt
+      - .github/workflows/browse.yml
+  workflow_dispatch:
+  schedule:
+    - cron: "41 5 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: browse-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Crawl
+        run: python browse.py
+      - name: Commit snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add snapshots/
+          if ! git diff --cached --quiet; then
+            git commit -m "Browser snapshots $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi

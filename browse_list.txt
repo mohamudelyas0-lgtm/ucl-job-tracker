@@ -1,0 +1,151 @@
+# label | url    - pages the GitHub browser crawler opens (browse.py)
+
+# ===== Healthcare / life-sciences strategy consulting (UK) =====
+Cairneagle graduate hires | https://www.cairneagle.com/work-with-us/graduate-hires/
+Cairneagle work with us | https://www.cairneagle.com/work-with-us/
+Teneo open positions | https://www.teneo.com/careers/open-positions/
+Teneo greenhouse | https://job-boards.greenhouse.io/teneolinkedin
+ClearView greenhouse | https://job-boards.greenhouse.io/clearviewhealthcarepartners
+ClearView careers | https://clearviewhcp.com/careers/
+LEK search jobs | https://www.lek.com/join-lek/search-jobs
+LEK students | https://www.lek.com/join-lek/students-graduates
+ZS london | https://jobs.zs.com/jobs?keywords=london
+ZS associate consultant | https://jobs.zs.com/jobs?keywords=associate%20consultant
+ZS europe students | https://jobs.zs.com/jobs?keywords=graduate
+Putnam careers | https://www.putassoc.com/careers
+Putnam greenhouse | https://job-boards.greenhouse.io/putnamassociates
+Inizio careers | https://inizio.com/careers/
+Candesic careers | https://candesic.com/careers/
+Health Advances careers | https://healthadvances.com/careers
+Trinity Life Sciences careers | https://trinitylifesciences.com/careers/
+Lumanity careers | https://lumanity.com/careers/
+Simon-Kucher jobs | https://www.simon-kucher.com/en/careers/jobs
+Syneos consulting jobs | https://www.syneoshealth.com/careers/search/consulting/jobs
+Alira Health workday | https://alirahealth.wd3.myworkdayjobs.com/AliraHealth
+Carnall Farrar careers | https://www.carnallfarrar.com/careers/
+CRA careers | https://careers.crai.com/
+Blue Latitude careers | https://www.bluelatitude.com/careers
+Blue Matter careers | https://bluematterconsulting.com/careers/
+Newmarket Strategy careers | https://newmarketstrategy.com/careers/
+Prescient Healthcare careers | https://www.prescienthg.com/careers
+Lifescience Dynamics careers | https://www.lifesciencedynamics.com/careers/
+CBPartners careers | https://cbpartners.com/careers/
+Remap Consulting careers | https://remapconsulting.com/careers/
+Avalere Health careers | https://avalerehealth.com/careers/
+Precision AQ careers | https://www.precisionaq.com/careers
+Mtech Access careers | https://mtechaccess.co.uk/careers/
+Valid Insight careers | https://www.validinsight.com/careers/
+Wickenstones careers | https://www.wickenstones.com/careers
+Triducive careers | https://www.triducive.com/careers
+OPEN Health careers | https://www.openhealthgroup.com/careers
+IQVIA consulting london | https://jobs.iqvia.com/en/search-jobs/consulting/London
+IQVIA graduate uk | https://jobs.iqvia.com/en/search-jobs/graduate/United%20Kingdom
+Welbeck careers | https://www.welbeck.com/careers
+Huron careers europe | https://www.huronconsultinggroup.com/careers
+EVERSANA careers | https://www.eversana.com/careers/
+
+# ===== Life-sciences strategy consulting (abroad) =====
+Bionest careers | https://bionest.com/careers/
+Alcimed join us | https://www.alcimed.com/en/join-us/
+Vintura careers | https://www.vintura.com/careers/
+Ascendis? Smart Pharma | https://www.smart-pharma.com/careers
+Healthcare consulting Basel - Roland Berger jobs | https://www.rolandberger.com/en/Join/
+
+# ===== Strategy / management consulting =====
+OCC vacancies | https://careers.occstrategy.com/vacancies
+McKinsey UK jobs | https://www.mckinsey.com/careers/search-jobs?countries=United%20Kingdom
+BCG London | https://careers.bcg.com/global/en/search-results?keywords=london
+Bain London | https://www.bain.com/careers/find-a-role/?filters=offices(275)
+Oliver Wyman jobs | https://careers.oliverwyman.com/search-jobs?k=london
+Kearney jobs | https://www.kearney.com/careers/students-and-graduates
+Accenture pinpoint | https://accenture.pinpointhq.com/
+PA Consulting jobs | https://www.paconsulting.com/careers/jobs
+Baringa early careers | https://www.baringa.com/en/careers/early-careers/
+Newton careers | https://www.newtoneurope.com/careers
+Strategy& / PwC graduate strategy | https://www.pwc.co.uk/careers/early-careers/graduate/strategy.html
+PwC graduate search | https://jobs.pwc.co.uk/uk/en/search-results?keywords=graduate%20consulting
+Deloitte students | https://www.deloitte.com/uk/en/careers/students.html
+Deloitte graduate jobs | https://apply.deloitte.co.uk/students/search?keywords=graduate
+EY graduate | https://www.ey.com/en_uk/careers/students/programmes/graduate
+EY careers search | https://careers.ey.com/ey/search/?q=graduate&locationsearch=london
+KPMG grad vacancies | https://www.kpmgcareers.co.uk/search/vacancies/?searchText=Graduate&intakeType=Student
+Capgemini Invent grads | https://www.capgemini.com/gb-en/careers/career-paths/students-and-graduates/
+
+# ===== Pharma - UK graduate schemes & careers search =====
+GSK graduate programme | https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/
+GSK commercial | https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/commercial/
+GSK postgrad | https://www.gsk.com/en-gb/careers/early-careers/post-graduate-opportunities/
+GSK workday graduate | https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=graduate
+GSK workday graduate programme 2027 | https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=graduate%20programme%202027
+GSK workday clinical graduate | https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=clinical%20graduate
+GSK workday intern | https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=internship
+AZ early talent | https://careers.astrazeneca.com/early-talent
+AZ commercial grad | https://careers.astrazeneca.com/commercial-marketing-and-market-access-graduate-programme
+AZ workday graduate | https://astrazeneca.wd3.myworkdayjobs.com/Careers?q=graduate
+AZ workday intern | https://astrazeneca.wd3.myworkdayjobs.com/Careers?q=internship
+Pfizer UK early careers | https://www.pfizer.co.uk/careers/early-careers
+Pfizer workday graduate | https://pfizer.wd1.myworkdayjobs.com/PfizerCareers?q=graduate
+Takeda UK graduate | https://www.takeda.com/en-gb/careers/graduate-internship-programmes/
+Takeda workday graduate | https://takeda.wd3.myworkdayjobs.com/External?q=graduate
+MSD UK search | https://jobs.msd.com/gb/en/search-results?keywords=graduate
+J&J graduate UK | https://www.careers.jnj.com/en/jobs/?search=graduate&country=United+Kingdom
+J&J students | https://www.careers.jnj.com/en/students-and-graduates/
+Haleon early careers | https://careers.haleon.com/en-gb/early-careers
+Sanofi graduate jobs | https://jobs.sanofi.com/en/search-jobs/graduate
+Lilly graduate | https://careers.lilly.com/us/en/search-results?keywords=graduate
+Bayer graduate | https://career.bayer.com/en/jobs-search?keyword=graduate
+Boehringer students | https://www.boehringer-ingelheim.com/careers/students-graduates
+Novartis graduate | https://www.novartis.com/careers/career-search?search_api_fulltext=graduate
+Novartis intern | https://www.novartis.com/careers/career-search?search_api_fulltext=intern
+Roche graduate | https://careers.roche.com/global/en/search-results?keywords=graduate
+Roche market access intern | https://careers.roche.com/global/en/search-results?keywords=market%20access%20intern
+Roche trainee | https://careers.roche.com/global/en/search-results?keywords=trainee
+BMS workday graduate | https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS?q=graduate
+AbbVie students | https://careers.abbvie.com/en/students-and-graduates
+Amgen graduate | https://careers.amgen.com/en/search-jobs/graduate
+Gilead graduate | https://gilead.yello.co/job_boards
+UCB careers | https://careers.ucb.com/global/en/search-results?keywords=graduate
+Ipsen careers | https://careers.ipsen.com/search/?q=graduate
+Astellas careers | https://astellas.wd3.myworkdayjobs.com/Astellas?q=graduate
+Merck KGaA students | https://www.merckgroup.com/en/careers/students-graduates.html
+Thermo Fisher grads | https://jobs.thermofisher.com/global/en/search-results?keywords=graduate%20leadership
+Lonza graduate | https://www.lonza.com/careers/students-and-graduates
+
+# ===== Pharma abroad (graduate programmes open internationally) =====
+Novo Nordisk graduate | https://www.novonordisk.com/careers/early-career-programmes/graduate.html
+Novo Nordisk search graduate | https://careers.novonordisk.com/search/?q=graduate
+Lundbeck graduate | https://www.lundbeck.com/global/careers/students-and-graduates
+LEO Pharma graduate | https://careers.leo-pharma.com/students-graduates
+Ferring graduates | https://www.ferring.com/careers/
+Galderma early careers | https://careers.galderma.com/
+CSL graduate | https://www.csl.com/careers/students-and-graduates
+Novartis Basel intern market access | https://www.novartis.com/careers/career-search?search_api_fulltext=market%20access
+Roche Basel graduate programme | https://careers.roche.com/global/en/search-results?keywords=graduate%20program
+
+# ===== Aggregators / job boards =====
+LinkedIn - graduate market access UK | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=graduate%20market%20access&location=United%20Kingdom&f_TPR=r2592000
+LinkedIn - life sciences consulting analyst London | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=life%20sciences%20consulting%20analyst&location=London&f_TPR=r2592000
+LinkedIn - associate consultant life sciences London | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=associate%20consultant%20life%20sciences&location=London&f_TPR=r2592000
+LinkedIn - healthcare strategy analyst London | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=healthcare%20strategy%20analyst&location=London&f_TPR=r2592000
+LinkedIn - pharma graduate programme UK | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=pharmaceutical%20graduate%20programme%202027&location=United%20Kingdom&f_TPR=r2592000
+LinkedIn - pharma commercial graduate UK | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=commercial%20graduate%20pharma&location=United%20Kingdom&f_TPR=r2592000
+LinkedIn - supply chain graduate pharma UK | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=supply%20chain%20graduate%20pharmaceutical&location=United%20Kingdom&f_TPR=r2592000
+LinkedIn - market access intern Switzerland | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=market%20access%20intern&location=Switzerland&f_TPR=r2592000
+LinkedIn - life sciences consulting Switzerland | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=life%20sciences%20strategy%20consulting%20analyst&location=Switzerland&f_TPR=r2592000
+LinkedIn - life sciences consulting Germany | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=life%20sciences%20consulting%20junior&location=Germany&f_TPR=r2592000
+LinkedIn - life sciences consulting Netherlands | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=life%20sciences%20consultant%20graduate&location=Netherlands&f_TPR=r2592000
+LinkedIn - pharma graduate Denmark | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=graduate%20programme%20pharma&location=Denmark&f_TPR=r2592000
+LinkedIn - pharma graduate Ireland | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=graduate%20programme%20pharmaceutical&location=Ireland&f_TPR=r2592000
+LinkedIn - healthcare consulting Dubai | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=healthcare%20strategy%20consulting%20associate&location=United%20Arab%20Emirates&f_TPR=r2592000
+LinkedIn - market access masters intern Europe | https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=market%20access%20internship%20master&location=European%20Union&f_TPR=r2592000
+Bright Network pharma | https://www.brightnetwork.co.uk/graduate-jobs/pharmaceuticals-science/
+Bright Network consulting | https://www.brightnetwork.co.uk/graduate-jobs/consulting/
+Bright Network healthcare | https://www.brightnetwork.co.uk/graduate-jobs/healthcare/
+Consultancy.uk graduate jobs | https://www.consultancy.uk/graduate-jobs
+Consultancy.uk jobs healthcare | https://www.consultancy.uk/jobs/industries/healthcare
+TARGETjobs consulting | https://targetjobs.co.uk/graduate-jobs/consulting
+TARGETjobs pharma | https://targetjobs.co.uk/graduate-jobs/healthcare
+Prospects pharma graduate | https://www.prospects.ac.uk/graduate-jobs/pharmaceuticals
+PharmiWeb graduate | https://www.pharmiweb.jobs/jobs/graduate/
+Milkround life sciences consultant | https://www.milkround.com/jobs/life-science-consultant
+Opportunities feed consulting | https://opportunitiesfeed.com/tag/strategy-consulting-graduate-jobs-uk/

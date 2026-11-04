@@ -152,7 +152,8 @@ LEVEL = [
     "graduate", "grad", "2027", "2028", "associate", "analyst", "entry level",
     "entry-level", "junior", "early career", "early careers", "programme",
     "program", "trainee", "future leaders", "rotational", "leadership development",
-    "new grad", "register your interest",
+    "new grad", "register your interest", "intern", "internship", "summer associate",
+    "master", "masters", "trainee",
 ]
 EXCLUDE = [
     # seniority
@@ -167,7 +168,7 @@ EXCLUDE = [
     "finance", "accountant", "audit", "tax", "actuar", "software", "developer", "it ",
     "sales representative", "territory", "nurse", "pharmacist", "cleaner",
     # wrong stage
-    "intern", "internship", "summer", "placement", "industrial placement", "apprentice",
+    "placement", "industrial placement", "year in industry", "apprentice",
     "apprenticeship", "phd", "postdoc", "work experience", "insight",
     # generic retail/management schemes the user doesn't want
     "enterprise", "rent-a-car", "retail", "store", "aldi", "lidl",
@@ -177,7 +178,12 @@ EXCLUDE = [
 UK_WORDS = ["uk", "united kingdom", "london", "england", "scotland", "wales", "great britain",
             "gb", "brentford", "stevenage", "ware", "barnard castle", "cambridge",
             "macclesfield", "luton", "welwyn", "reading", "high wycombe", "weybridge",
-            "tadworth", "basingstoke", "maidenhead", "slough", "uxbridge"]
+            "tadworth", "basingstoke", "maidenhead", "slough", "uxbridge",
+            # abroad where a UK graduate can realistically apply
+            "switzerland", "basel", "zurich", "zug", "geneva", "denmark", "copenhagen",
+            "bagsvaerd", "bagsværd", "ireland", "dublin", "cork", "netherlands", "amsterdam",
+            "germany", "munich", "berlin", "frankfurt", "belgium", "brussels", "france", "paris",
+            "united arab emirates", "dubai", "abu dhabi"]
 MULTI_LOC = re.compile(r"^\d+\s+locations?$|multiple", re.I)
 
 
