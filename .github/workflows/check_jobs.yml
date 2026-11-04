@@ -2,11 +2,12 @@ name: Check jobs
 
 on:
   schedule:
-    - cron: "0 */8 * * *"   # every 8 hours (00:00, 08:00, 16:00 UTC)
-  workflow_dispatch:         # allow manual runs from the Actions tab
+    - cron: "17 */8 * * *"   # every 8 hours (00:17, 08:17, 16:17 UTC)
+  workflow_dispatch:          # manual run: Actions tab -> Check jobs -> Run workflow
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: check-jobs
@@ -15,7 +16,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -36,11 +37,20 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tracker.csv
+          git add tracker.csv TRACKER.md state/
           if git diff --cached --quiet; then
-            echo "No new roles."
+            echo "Nothing changed."
           else
-            git commit -m "Update tracker: new roles found $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Update tracker $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase
             git push
           fi
+
+      - name: Notify (open an issue) when new roles appear
+        if: hashFiles('new_roles.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "New roles found $(date -u +'%d %b %H:%M UTC')" \
+            --body-file new_roles.md
