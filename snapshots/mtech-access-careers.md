@@ -2,7 +2,7 @@
 URL: https://mtechaccess.co.uk/careers/
 Final URL: https://mtechaccess.co.uk/careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:59 UTC
 
 ## Job-like links (4)
 - Global Market Access and Pricing -> https://mtechaccess.co.uk/global-market-access-and-pricing/

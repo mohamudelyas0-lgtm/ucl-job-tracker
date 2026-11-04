@@ -2,7 +2,7 @@
 URL: https://www.bluelatitude.com/careers
 Final URL: https://avalerehealth.com/
 Status: HTTP 200
-Captured: 2026-11-04 15:42 UTC
+Captured: 2026-11-04 15:58 UTC
 
 ## Job-like links (6)
 - Wendy Jory, PhD, MBA, global and US pricing and market access leader, joins Avalere Health as Senior Vice President, Market Access NEWS -> https://avalerehealth.com/news/wendy-jory-phd-mba-global-and-us-pricing-and-market-access-leader-joins-avalere-health-as-senior-vice-president-market-access/#a=7363,7286,7300&p=2

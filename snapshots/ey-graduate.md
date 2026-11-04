@@ -2,7 +2,7 @@
 URL: https://www.ey.com/en_uk/careers/students/programmes/graduate
 Final URL: https://www.ey.com/en_uk/careers/students/programmes/graduate
 Status: HTTP 404
-Captured: 2026-11-04 15:46 UTC
+Captured: 2026-11-04 16:01 UTC
 
 ## Job-like links (25)
 - Geostrategy -> https://www.ey.com/en_uk/insights/geostrategy

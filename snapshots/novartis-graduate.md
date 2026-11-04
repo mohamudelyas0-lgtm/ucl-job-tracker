@@ -2,7 +2,7 @@
 URL: https://www.novartis.com/careers/career-search?search_api_fulltext=graduate
 Final URL: https://www.novartis.com/careers/career-search?search_api_fulltext=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:47 UTC
+Captured: 2026-11-04 16:03 UTC
 
 ## Job-like links (14)
 - International -> https://www.novartis.com/careers/career-search?search_api_fulltext=graduate#international

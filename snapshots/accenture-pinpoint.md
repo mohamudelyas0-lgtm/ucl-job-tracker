@@ -2,7 +2,7 @@
 URL: https://accenture.pinpointhq.com/
 Final URL: https://accenture.pinpointhq.com/
 Status: HTTP 200
-Captured: 2026-11-04 15:45 UTC
+Captured: 2026-11-04 16:01 UTC
 
 ## Job-like links (0)
 

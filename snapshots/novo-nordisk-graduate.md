@@ -2,7 +2,7 @@
 URL: https://www.novonordisk.com/careers/early-career-programmes/graduate.html
 Final URL: https://www.novonordisk.com/careers/early-career-programmes/graduate.html
 Status: HTTP 200
-Captured: 2026-11-04 15:48 UTC
+Captured: 2026-11-04 16:04 UTC
 
 ## Job-like links (15)
 - Early Career -> https://www.novonordisk.com/careers/early-career-programmes.html

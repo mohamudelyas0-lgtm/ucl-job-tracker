@@ -2,7 +2,7 @@
 URL: https://www.lek.com/join-lek/students-graduates
 Final URL: https://www.lek.com/join-lek/students-graduates
 Status: HTTP 404
-Captured: 2026-11-04 15:41 UTC
+Captured: 2026-11-04 15:56 UTC
 
 ## Job-like links (27)
 - AI Strategy Development -> https://www.lek.com/capabilities/artificial-intelligence/ai-strategy-development

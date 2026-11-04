@@ -2,21 +2,15 @@
 URL: https://jobs.pwc.co.uk/uk/en/search-results?keywords=graduate%20consulting
 Final URL: https://jobs.pwc.co.uk/uk/en/search-results?keywords=graduate%20consulting
 Status: HTTP 200
-Captured: 2026-11-04 15:44 UTC
+Captured: 2026-11-04 16:00 UTC
 
-## Job-like links (12)
+## Job-like links (6)
 - Explore Early Careers -> https://www.pwc.co.uk/careers/early-careers.html
 - Our business areas -> https://www.pwc.co.uk/careers/our-business.html
-- Workday Delivery Consultant - Manager -> https://jobs.pwc.co.uk/uk/en/job/665630WD/Workday-Delivery-Consultant-Manager
-- Apply Now Workday Delivery Consultant - Manager -> https://jobs.pwc.co.uk/uk/en/hvhapply?jobSeqNo=PUDPUNUK665630WDEXTERNALENUK
-- Finance Transformation Consultant - Manager -> https://jobs.pwc.co.uk/uk/en/job/741985WD/Finance-Transformation-Consultant-Manager
-- Apply Now Finance Transformation Consultant - Manager -> https://jobs.pwc.co.uk/uk/en/hvhapply?jobSeqNo=PUDPUNUK741985WDEXTERNALENUK
-- FS Customer & Service Excellence Consultant – Senior Manager -> https://jobs.pwc.co.uk/uk/en/job/745004WD/FS-Customer-Service-Excellence-Consultant-Senior-Manager
-- Apply Now FS Customer & Service Excellence Consultant – Senior Manager -> https://jobs.pwc.co.uk/uk/en/hvhapply?jobSeqNo=PUDPUNUK745004WDEXTERNALENUK
-- Finance Transformation Consultant - Senior Associate -> https://jobs.pwc.co.uk/uk/en/job/772092WD/Finance-Transformation-Consultant-Senior-Associate
-- Apply Now Finance Transformation Consultant - Senior Associate -> https://jobs.pwc.co.uk/uk/en/hvhapply?jobSeqNo=PUDPUNUK772092WDEXTERNALENUK
-- Financial Services Customer-led Transformation Consultant - Manager -> https://jobs.pwc.co.uk/uk/en/job/682078WD/Financial-Services-Customer-led-Transformation-Consultant-Manager
-- Apply Now Financial Services Customer-led Transformation Consultant - Manager -> https://jobs.pwc.co.uk/uk/en/hvhapply?jobSeqNo=PUDPUNUK682078WDEXTERNALENUK
+- Deals Tax - PECS - Senior Associate -> https://jobs.pwc.co.uk/uk/en/job/767072WD/Deals-Tax-PECS-Senior-Associate
+- Apply Now Deals Tax - PECS - Senior Associate -> https://jobs.pwc.co.uk/uk/en/hvhapply?jobSeqNo=PUDPUNUK767072WDEXTERNALENUK
+- Transfer Pricing Operations Senior Manager, Financial Services Tax -> https://jobs.pwc.co.uk/uk/en/job/765603WD/Transfer-Pricing-Operations-Senior-Manager-Financial-Services-Tax
+- Apply Now Transfer Pricing Operations Senior Manager, Financial Services Tax -> https://jobs.pwc.co.uk/uk/en/hvhapply?jobSeqNo=PUDPUNUK765603WDEXTERNALENUK
 
 ## Page text
 Skip to main content
@@ -84,111 +78,111 @@ Search from below list
 230 Jobs Sort by
 Most relevant
 Most recent
-Workday Delivery Consultant - Manager
-Consulting
-Manager
-GBR Experienced Hire
-Job Id
-665630WD
-Job available in 4 locations
-Save Workday Delivery Consultant - Manager 665630WD
-Apply Now
-Workday Delivery Consultant - Manager
-Finance Transformation Consultant - Manager
+Non Life Actuary - Risk & Capital - Manager
 Consulting
 Location
 London
 Manager
 GBR Experienced Hire
 Job Id
-741985WD
-Save Finance Transformation Consultant - Manager 741985WD
+753641WD
+Save Non Life Actuary - Risk & Capital - Manager 753641WD
 Apply Now
-Finance Transformation Consultant - Manager
-FS Customer & Service Excellence Consultant – Senior Manager
-Other
-Location
-London
-Senior Manager
-GBR Experienced Hire
-Job Id
-745004WD
-Save FS Customer & Service Excellence Consultant – Senior Manager 745004WD
-Apply Now
-FS Customer & Service Excellence Consultant – Senior Manager
-Transport Consulting - Senior Manager
+Non Life Actuary - Risk & Capital - Manager
+Data Architect-Senior Manager
 Consulting
 Senior Manager
 GBR Experienced Hire
 Job Id
-741602WD
+690601WD
 Job available in 5 locations
-Save Transport Consulting - Senior Manager 741602WD
+Save Data Architect-Senior Manager 690601WD
 Apply Now
-Transport Consulting - Senior Manager
-Finance Transformation Consultant - Senior Associate
+Data Architect-Senior Manager
+Senior Manager Guidewire Solution Architect (IPLM)
 Consulting
+Location
+London
+Senior Manager
+GBR Experienced Hire
+Job Id
+752784WD
+Save Senior Manager Guidewire Solution Architect (IPLM) 752784WD
+Apply Now
+Senior Manager Guidewire Solution Architect (IPLM)
+Deals Tax - PECS - Senior Associate
+Tax
 Location
 London
 Senior Associate
 GBR Experienced Hire
 Job Id
-772092WD
-Save Finance Transformation Consultant - Senior Associate 772092WD
+767072WD
+Save Deals Tax - PECS - Senior Associate 767072WD
 Apply Now
-Finance Transformation Consultant - Senior Associate
-Guidewire BillingCenter - Insurance – Manager - Consulting
-Consulting
+Deals Tax - PECS - Senior Associate
+Private Client Tax US/ UK, Financial Services Tax, Manager
+Tax
 Location
 London
 Manager
 GBR Experienced Hire
 Job Id
-759252WD
-Save Guidewire BillingCenter - Insurance – Manager - Consulting 759252WD
+746822WD
+Save Private Client Tax US/ UK, Financial Services Tax, Manager 746822WD
 Apply Now
-Guidewire BillingCenter - Insurance – Manager - Consulting
-Financial Services Customer-led Transformation Consultant - Manager
-Technology
+Private Client Tax US/ UK, Financial Services Tax, Manager
+Deals Tax | M&A Manager
+Tax
 Location
 London
 Manager
 GBR Experienced Hire
 Job Id
-682078WD
-Save Financial Services Customer-led Transformation Consultant - Manager 682078WD
+729569WD
+Save Deals Tax | M&A Manager 729569WD
 Apply Now
-Financial Services Customer-led Transformation Consultant - Manager
-Manager, Asset Management, Consulting
-Consulting
-Manager
+Deals Tax | M&A Manager
+Transfer Pricing Operations Senior Manager, Financial Services Tax
+Tax
+Senior Manager
 GBR Experienced Hire
 Job Id
-604648WD
-Job available in 2 locations
-Save Manager, Asset Management, Consulting 604648WD
-Apply Now
-Manager, Asset Management, Consulting
-Transport Consulting - Manager
-Consulting
-Manager
-GBR Experienced Hire
-Job Id
-741596WD
-Job available in 5 locations
-Save Transport Consulting - Manager 741596WD
-Apply Now
-Transport Consulting - Manager
-Consulting – Core Platform Director
-Consulting
-Director
-GBR Experienced Hire
-Job Id
-741956WD
+765603WD
 Job available in 3 locations
-Save Consulting – Core Platform Director 741956WD
+Save Transfer Pricing Operations Senior Manager, Financial Services Tax 765603WD
 Apply Now
-Consulting – Core Platform Director
+Transfer Pricing Operations Senior Manager, Financial Services Tax
+Operational Transfer Pricing Manager, Financial Services Tax
+Tax
+Manager
+GBR Experienced Hire
+Job Id
+765599WD
+Job available in 3 locations
+Save Operational Transfer Pricing Manager, Financial Services Tax 765599WD
+Apply Now
+Operational Transfer Pricing Manager, Financial Services Tax
+Transfer Pricing Manager, Financial Services Tax
+Tax
+Manager
+GBR Experienced Hire
+Job Id
+748500WD
+Job available in 3 locations
+Save Transfer Pricing Manager, Financial Services Tax 748500WD
+Apply Now
+Transfer Pricing Manager, Financial Services Tax
+Insurance Tax Manager, Financial Services
+Tax
+Manager
+GBR Experienced Hire
+Job Id
+748574WD
+Job available in 4 locations
+Save Insurance Tax Manager, Financial Services 748574WD
+Apply Now
+Insurance Tax Manager, Financial Services
 1
 2
 3
@@ -232,7 +226,7 @@ Web Accessibility
 Careers Chatbot
 Enabled Chatbot Sounds
 The information you provide to the chatbot will be collected to improve your experience. Please read our privacy policy to see how we are storing and protecting your data.
-Today 03:44 pm
+Today 04:00 pm
 Bot message
 Looking for your next role?
 I can help you explore available jobs or provide answers to our most commonly asked questions.

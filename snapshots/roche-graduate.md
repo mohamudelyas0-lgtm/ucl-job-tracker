@@ -2,7 +2,7 @@
 URL: https://careers.roche.com/global/en/search-results?keywords=graduate
 Final URL: https://careers.roche.com/global/en/search-results?keywords=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:47 UTC
+Captured: 2026-11-04 16:03 UTC
 
 ## Job-like links (8)
 - Student & Graduate Programmes -> https://careers.roche.com/global/en/student-and-graduate-programs
@@ -133,6 +133,12 @@ Category
 Manufacturing
 Exciting opportunity for a Manufacturing Biotechnologist II to support biochemical manufacturing operations, ensuring compliance with Good Manufacturing Practices and Roche’s quality standards. Key responsibilities include preparing equipment, monitoring processing equipment, and supporting process improvements. Ideal for candidates with a degree in Life Sciences or Engineering, strong problem-solving skills, and a commitment to safety and quality.
 Save job Manufacturing Biotechnologist II (1-year Contract) 202609-123702 to job cart
+Patient Journey Partner- Neurology
+Available in 13 locations
+Category
+Sales & Marketing
+We are looking for a Patient Journey Partner- Neurology to drive impactful patient care solutions by connecting Roche’s expertise with key stakeholders. Manage end-to-end therapy area relations, identify challenges, and support state strategies. Ideal for experienced professionals with a background in neurology and strong collaboration skills.
+Save job Patient Journey Partner- Neurology 202609-124218 to job cart
 Patient Journey Partner - Ophthalmology
 Location
 New Delhi, Delhi, India
@@ -140,12 +146,6 @@ Category
 Sales & Marketing
 Exciting opportunity for a Patient Journey Partner in Ophthalmology to drive impactful patient care solutions. Manage key account relationships, collaborate with stakeholders, and support state strategies. Ideal for candidates with significant experience in healthcare and a background in science.
 Save job Patient Journey Partner - Ophthalmology 202610-127477 to job cart
-Patient Journey Partner- Neurology
-Available in 13 locations
-Category
-Sales & Marketing
-We are looking for a Patient Journey Partner- Neurology to drive impactful patient care solutions by connecting Roche’s expertise with key stakeholders. Manage end-to-end therapy area relations, identify challenges, and support state strategies. Ideal for experienced professionals with a background in neurology and strong collaboration skills.
-Save job Patient Journey Partner- Neurology 202609-124218 to job cart
 1
 2
 3

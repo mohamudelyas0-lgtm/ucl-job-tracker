@@ -2,7 +2,7 @@
 URL: https://candesic.com/careers/
 Final URL: https://candesic.com/careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:42 UTC
+Captured: 2026-11-04 15:57 UTC
 
 ## Job-like links (0)
 

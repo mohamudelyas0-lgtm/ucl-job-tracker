@@ -2,7 +2,7 @@
 URL: https://www.newtoneurope.com/careers
 Final URL: https://newtonimpact.com/careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:45 UTC
+Captured: 2026-11-04 16:01 UTC
 
 ## Job-like links (2)
 - Early Careers Hub -> https://newtonimpact.com/careers/early-careers-hub/

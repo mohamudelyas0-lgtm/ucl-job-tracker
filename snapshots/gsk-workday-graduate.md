@@ -2,7 +2,7 @@
 URL: https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=graduate
 Final URL: https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:46 UTC
+Captured: 2026-11-04 16:02 UTC
 
 ## Job-like links (12)
 - Instrument Engineer Trainee (Attach and Train Programme) -> https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Singapore---Jurong/Career-Conversion-Programme--AnT----Instrument-Engineer_437758?q=graduate

@@ -2,7 +2,7 @@
 URL: https://www.putassoc.com/careers
 Final URL: https://inizio.com/our-businesses/ignite/about-inizio-ignite/our-teams/
 Status: HTTP 200
-Captured: 2026-11-04 15:41 UTC
+Captured: 2026-11-04 15:57 UTC
 
 ## Job-like links (17)
 - Our businesses -> https://inizio.com/our-businesses/

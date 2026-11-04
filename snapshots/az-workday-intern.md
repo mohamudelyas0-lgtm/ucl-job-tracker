@@ -2,7 +2,7 @@
 URL: https://astrazeneca.wd3.myworkdayjobs.com/Careers?q=internship
 Final URL: https://astrazeneca.wd3.myworkdayjobs.com/Careers?q=internship
 Status: HTTP 200
-Captured: 2026-11-04 15:46 UTC
+Captured: 2026-11-04 16:02 UTC
 
 ## Job-like links (18)
 - Junior Financial Controller (Baltics) -> https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Lithuania---Vilnius/Junior-Financial-Controller--Baltics-_R-262891-1?q=internship

@@ -2,7 +2,7 @@
 URL: https://jobs.iqvia.com/en/search-jobs/graduate/United%20Kingdom
 Final URL: https://jobs.iqvia.com/en/search-jobs/graduate/United%20Kingdom
 Status: HTTP 404
-Captured: 2026-11-04 15:42 UTC
+Captured: 2026-11-04 15:58 UTC
 
 ## Job-like links (0)
 

@@ -2,7 +2,7 @@
 URL: https://www.huronconsultinggroup.com/careers
 Final URL: https://www.huronconsultinggroup.com/en/careers
 Status: HTTP 200
-Captured: 2026-11-04 15:44 UTC
+Captured: 2026-11-04 16:00 UTC
 
 ## Job-like links (1)
 - Students and early career -> https://www.huronconsultinggroup.com/en/careers/entry-level-careers

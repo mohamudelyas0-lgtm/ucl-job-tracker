@@ -2,7 +2,7 @@
 URL: https://www.novartis.com/careers/career-search?search_api_fulltext=intern
 Final URL: https://www.novartis.com/careers/career-search?search_api_fulltext=intern
 Status: HTTP 200
-Captured: 2026-11-04 15:49 UTC
+Captured: 2026-11-04 16:04 UTC
 
 ## Job-like links (22)
 - International -> https://www.novartis.com/careers/career-search?search_api_fulltext=intern#international

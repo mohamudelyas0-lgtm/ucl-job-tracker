@@ -2,7 +2,7 @@
 URL: https://jobs.msd.com/gb/en/search-results?keywords=graduate
 Final URL: https://jobs.msd.com/gb/en/search-results?keywords=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:47 UTC
+Captured: 2026-11-04 16:03 UTC
 
 ## Job-like links (13)
 - Business development & licensing -> https://msd.com/company-overview/business-development-licensing/

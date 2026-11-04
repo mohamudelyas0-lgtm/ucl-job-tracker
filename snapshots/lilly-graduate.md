@@ -2,7 +2,7 @@
 URL: https://careers.lilly.com/us/en/search-results?keywords=graduate
 Final URL: https://careers.lilly.com/us/en/search-results?keywords=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:48 UTC
+Captured: 2026-11-04 16:03 UTC
 
 ## Job-like links (6)
 - Business -> https://careers.lilly.com/us/en/c/business-jobs
@@ -77,31 +77,6 @@ Job available in 6 locations
 Join our team as a Senior Director overseeing the regulatory and medical writing function within ExploR&D. Lead the preparation and delivery of clinical and regulatory documents, manage cross-functional teams, and drive process improvements. Ideal for an experienced pharmaceutical professional with strong expertise in regulatory writing and leadership.
 Save
 Save Sr. Director - ExploR&D Regulatory Writing and Capabilities R-112778 to job cart
-Advisor Chemistry
-Location
-Pasadena, California, United States of America
-Category
-Research & Development
-Job Type
-Full Time
-Regular
-Job Id
-R-111645
-We are seeking an Advisor Chemistry to advance research in biotherapeutics, focusing on synthesis, bioconjugation, and compound characterization. The role involves working in a fast-paced, team-oriented environment and requires a strong background in chemistry or related fields. Ideal for candidates with proven research experience and technical expertise.
-Save
-Save Advisor Chemistry R-111645 to job cart
-Pharmaceutical Sales Representative - Territory Manager - Dermatology Specialty
-Category
-Sales/Marketing
-Job Type
-Full Time
-Regular
-Job Id
-R-114302
-Job available in 5 locations
-We are looking for a Pharmaceutical Sales Representative to drive adoption of Lilly’s dermatology therapies in the United States. Manage key healthcare provider relationships, support account-based selling, and collaborate with internal teams. Ideal for candidates with a bachelor’s degree, strong sales acumen, and experience in complex healthcare environments.
-Save
-Save Pharmaceutical Sales Representative - Territory Manager - Dermatology Specialty R-114302 to job cart
 Pharmaceutical Sales - Territory Manager - GI Specialty
 Category
 Sales/Marketing
@@ -114,19 +89,6 @@ Job available in 3 locations
 We are recruiting a Pharmaceutical Sales - Territory Manager to drive sales and manage accounts within the GI specialty territory. The role focuses on territory management, account engagement, and delivering patient-centered solutions. Ideal for candidates with a bachelor’s degree and strong sales or account management experience.
 Save
 Save Pharmaceutical Sales - Territory Manager - GI Specialty R-111054 to job cart
-Nujoom Al Ghad Academy – 12-month Emirati Graduate Rotational Programme (UAE Nationals Only)
-Location
-Dubai, United Arab Emirates
-Category
-Other
-Job Type
-Full Time
-Fixed Term (Fixed Term)
-Job Id
-R-112108
-Exciting opportunity for UAE nationals to join Nujoom Al Ghad Academy as part of a 12-month graduate rotational programme. Gain hands-on experience across multiple functions in the pharmaceutical sector, supported by mentorship and structured onboarding. Ideal for recent graduates with a degree in Pharmacy, Healthcare, Life Sciences, or Biotechnology.
-Save
-Save Nujoom Al Ghad Academy – 12-month Emirati Graduate Rotational Programme (UAE Nationals Only) R-112108 to job cart
 Pharmaceutical Sales - Territory Manager - GI Specialty
 Location
 Charlottesville, Virginia, United States of America
@@ -153,6 +115,44 @@ R-114097
 Join our team as a Pharmaceutical Sales Territory Manager in Dermatology Specialty, where you will drive adoption of innovative therapies for immune-mediated diseases. Manage key healthcare provider relationships and support patient care. Ideal for candidates with sales experience in pharmaceuticals and a strong understanding of healthcare systems.
 Save
 Save Pharmaceutical Sales - Territory Manager- Dermatology Specialty - Rhode Island R-114097 to job cart
+Pharmaceutical Sales Representative - Territory Manager - Dermatology Specialty
+Category
+Sales/Marketing
+Job Type
+Full Time
+Regular
+Job Id
+R-114302
+Job available in 5 locations
+We are looking for a Pharmaceutical Sales Representative to drive adoption of Lilly’s dermatology therapies in the United States. Manage key healthcare provider relationships, support account-based selling, and collaborate with internal teams. Ideal for candidates with a bachelor’s degree, strong sales acumen, and experience in complex healthcare environments.
+Save
+Save Pharmaceutical Sales Representative - Territory Manager - Dermatology Specialty R-114302 to job cart
+Advisor Chemistry
+Location
+Pasadena, California, United States of America
+Category
+Research & Development
+Job Type
+Full Time
+Regular
+Job Id
+R-111645
+We are seeking an Advisor Chemistry to advance research in biotherapeutics, focusing on synthesis, bioconjugation, and compound characterization. The role involves working in a fast-paced, team-oriented environment and requires a strong background in chemistry or related fields. Ideal for candidates with proven research experience and technical expertise.
+Save
+Save Advisor Chemistry R-111645 to job cart
+Nujoom Al Ghad Academy – 12-month Emirati Graduate Rotational Programme (UAE Nationals Only)
+Location
+Dubai, United Arab Emirates
+Category
+Other
+Job Type
+Full Time
+Fixed Term (Fixed Term)
+Job Id
+R-112108
+Exciting opportunity for UAE nationals to join Nujoom Al Ghad Academy as part of a 12-month graduate rotational programme. Gain hands-on experience across multiple functions in the pharmaceutical sector, supported by mentorship and structured onboarding. Ideal for recent graduates with a degree in Pharmacy, Healthcare, Life Sciences, or Biotechnology.
+Save
+Save Nujoom Al Ghad Academy – 12-month Emirati Graduate Rotational Programme (UAE Nationals Only) R-112108 to job cart
 Career Site Cookie Settings
 Accessibility Statement
 Lilly Corporate Center

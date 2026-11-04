@@ -2,7 +2,7 @@
 URL: https://careers.roche.com/global/en/search-results?keywords=market%20access%20intern
 Final URL: https://careers.roche.com/global/en/search-results?keywords=market%20access%20intern
 Status: HTTP 200
-Captured: 2026-11-04 15:47 UTC
+Captured: 2026-11-04 16:03 UTC
 
 ## Job-like links (13)
 - Student & Graduate Programmes -> https://careers.roche.com/global/en/student-and-graduate-programs
@@ -42,21 +42,21 @@ Category
 Category
 Access (26)
 Jobs
-Audit & Compliance (11)
+Audit & Compliance (12)
 Jobs
 Business Development (18)
 Jobs
-Business Services & Support (50)
+Business Services & Support (51)
 Jobs
-Communications (2)
+Communications (3)
 Jobs
-Customer Support (65)
+Customer Support (69)
 Jobs
 Engineering (20)
 Jobs
 Finance (28)
 Jobs
-Information Technology (190)
+Information Technology (191)
 Jobs
 Legal (6)
 Jobs
@@ -68,7 +68,7 @@ Other (5)
 Jobs
 People & Culture (27)
 Jobs
-Procurement (17)
+Procurement (18)
 Jobs
 Quality (30)
 Jobs
@@ -78,7 +78,7 @@ Research & Development (106)
 Jobs
 Safety Health and Environment & Facility Services (17)
 Jobs
-Sales & Marketing (280)
+Sales & Marketing (285)
 Jobs
 Supply Chain (20)
 Jobs
@@ -110,7 +110,7 @@ Not Ready to apply?
 Join our talent community to stay connected!
 Join Talent Community
 Results based on your search
-Showing 1218 results for "market access intern"
+Showing 1232 results for "market access intern"
 the results are updated
 Search from below list
 Sort by:

@@ -2,7 +2,7 @@
 URL: https://www.vintura.com/careers/
 Final URL: https://www.vintura.com/careers/
 Status: HTTP 404
-Captured: 2026-11-04 15:44 UTC
+Captured: 2026-11-04 16:00 UTC
 
 ## Job-like links (2)
 - Commercial strategies -> https://www.vintura.com/life-sciences/commercial-strategies/

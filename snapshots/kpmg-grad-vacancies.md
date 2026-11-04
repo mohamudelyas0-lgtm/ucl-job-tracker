@@ -2,7 +2,7 @@
 URL: https://www.kpmgcareers.co.uk/search/vacancies/?searchText=Graduate&intakeType=Student
 Final URL: https://www.kpmgcareers.co.uk/search/vacancies/?searchText=Graduate&intakeType=Student
 Status: HTTP 200
-Captured: 2026-11-04 15:45 UTC
+Captured: 2026-11-04 16:00 UTC
 
 ## Job-like links (4)
 - Undergraduate -> https://www.kpmgcareers.co.uk/undergraduate/

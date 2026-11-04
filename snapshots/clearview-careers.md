@@ -2,7 +2,7 @@
 URL: https://clearviewhcp.com/careers/
 Final URL: https://clearviewhcp.com/careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:41 UTC
+Captured: 2026-11-04 15:56 UTC
 
 ## Job-like links (2)
 - Pricing & Market Access -> https://clearviewhcp.com/services/pricing-market-access/

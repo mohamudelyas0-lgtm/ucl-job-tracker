@@ -2,7 +2,7 @@
 URL: https://careers.abbvie.com/en/students-and-graduates
 Final URL: https://careers.abbvie.com/en/students-and-graduates
 Status: HTTP 404
-Captured: 2026-11-04 15:47 UTC
+Captured: 2026-11-04 16:04 UTC
 
 ## Job-like links (0)
 

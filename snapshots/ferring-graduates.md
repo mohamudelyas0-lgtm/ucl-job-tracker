@@ -2,7 +2,7 @@
 URL: https://www.ferring.com/careers/
 Final URL: https://www.ferring.com/careers/
 Status: HTTP 404
-Captured: 2026-11-04 15:48 UTC
+Captured: 2026-11-04 16:05 UTC
 
 ## Job-like links (0)
 

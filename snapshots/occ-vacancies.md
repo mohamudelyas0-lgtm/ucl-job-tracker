@@ -2,7 +2,7 @@
 URL: https://careers.occstrategy.com/vacancies
 Final URL: https://careers.occstrategy.com/vacancies/vacancy-search-results.aspx
 Status: HTTP 200
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:59 UTC
 
 ## Job-like links (6)
 - USA CONSULTANT INTERNSHIP (MBA) 2027 -> https://careers.occstrategy.com/vacancies/397/usa-consultant-internship-mba-2027.html

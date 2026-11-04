@@ -2,7 +2,7 @@
 URL: https://cbpartners.com/careers/
 Final URL: https://trinitylifesciences.com/company/careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:59 UTC
 
 ## Job-like links (13)
 - Pipeline & Pre-Commercial -> https://trinitylifesciences.com/services/commercialization-stage/pipeline-and-precommercial/

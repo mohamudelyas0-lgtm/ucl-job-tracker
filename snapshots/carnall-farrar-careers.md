@@ -2,7 +2,7 @@
 URL: https://www.carnallfarrar.com/careers/
 Final URL: https://www.carnallfarrar.com/careers/
 Status: HTTP 404
-Captured: 2026-11-04 15:42 UTC
+Captured: 2026-11-04 15:58 UTC
 
 ## Job-like links (1)
 - Hyped Marketing -> https://www.hypedmarketing.co.uk/

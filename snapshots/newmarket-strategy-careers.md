@@ -2,7 +2,7 @@
 URL: https://newmarketstrategy.com/careers/
 Final URL: https://newmarketstrategy.com/careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:58 UTC
 
 ## Job-like links (1)
 - newmarketstrategy.com has expired. Please click here for renew instructions -> https://www.dynadot.com/help/question/renew-domain

@@ -2,7 +2,7 @@
 URL: https://careers.ey.com/ey/search/?q=graduate&locationsearch=london
 Final URL: https://careers.ey.com/ey/search/?q=graduate&locationsearch=london
 Status: HTTP 200
-Captured: 2026-11-04 15:45 UTC
+Captured: 2026-11-04 16:00 UTC
 
 ## Job-like links (5)
 - Early careers -> https://eyglobal.yello.co/job_boards/c1riT--B2O-KySgYWsZO1Q

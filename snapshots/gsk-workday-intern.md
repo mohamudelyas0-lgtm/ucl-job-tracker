@@ -2,7 +2,7 @@
 URL: https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=internship
 Final URL: https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=internship
 Status: HTTP 200
-Captured: 2026-11-04 15:45 UTC
+Captured: 2026-11-04 16:01 UTC
 
 ## Job-like links (19)
 - Polytechnic Internship - QA Operations, Singapore (March to August/November 2027) -> https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Singapore---Tuas/Polytechnic-Internship---QA-Operations--Singapore--March-2027-to-August-2027-_450661?q=internship

@@ -2,7 +2,7 @@
 URL: https://careers.roche.com/global/en/search-results?keywords=graduate%20program
 Final URL: https://careers.roche.com/global/en/search-results?keywords=graduate%20program
 Status: HTTP 200
-Captured: 2026-11-04 15:49 UTC
+Captured: 2026-11-04 16:05 UTC
 
 ## Job-like links (13)
 - Student & Graduate Programmes -> https://careers.roche.com/global/en/student-and-graduate-programs
@@ -12,10 +12,10 @@ Captured: 2026-11-04 15:49 UTC
 - Manufacturing Biotechnologist Trainee (Train and Place Program) -> https://careers.roche.com/global/en/job/202508-121477/Manufacturing-Biotechnologist-Trainee-Train-and-Place-Program
 - Buyer Trainee - Attach & Train program -> https://careers.roche.com/global/en/job/202604-108787/Buyer-Trainee-Attach-Train-program
 - Manufacturing Biotechnologist - Train and Place Program -> https://careers.roche.com/global/en/job/202409-123295/Manufacturing-Biotechnologist-Train-and-Place-Program
-- QA Specialist Trainee - Train & Place program -> https://careers.roche.com/global/en/job/202508-121747/QA-Specialist-Trainee-Train-Place-program
-- Manufacturing Biotechnologist Trainee - Attach & Train program -> https://careers.roche.com/global/en/job/202604-110596/Manufacturing-Biotechnologist-Trainee-Attach-Train-program
-- Manufacturing Biotechnologist Trainee - Attach & Train program -> https://careers.roche.com/global/en/job/202603-108110/Manufacturing-Biotechnologist-Trainee-Attach-Train-program
 - Manufacturing Biotechnologist Trainee - Attach and Train Program -> https://careers.roche.com/global/en/job/202604-110021/Manufacturing-Biotechnologist-Trainee-Attach-and-Train-Program
+- QA Specialist Trainee - Train & Place program -> https://careers.roche.com/global/en/job/202508-121747/QA-Specialist-Trainee-Train-Place-program
+- Manufacturing Biotechnologist Trainee - Attach & Train program -> https://careers.roche.com/global/en/job/202603-108110/Manufacturing-Biotechnologist-Trainee-Attach-Train-program
+- Manufacturing Biotechnologist Trainee - Attach & Train program -> https://careers.roche.com/global/en/job/202604-110596/Manufacturing-Biotechnologist-Trainee-Attach-Train-program
 - Commercial, Marketing & Communications -> https://careers.roche.com/global/en/commercial-marketing-communications
 - Business Strategy & Finance -> https://careers.roche.com/global/en/business-strategy-finance
 
@@ -46,7 +46,7 @@ Audit & Compliance (10)
 Jobs
 Business Development (2)
 Jobs
-Business Services & Support (20)
+Business Services & Support (21)
 Jobs
 Customer Support (1)
 Job
@@ -104,7 +104,7 @@ Not Ready to apply?
 Join our talent community to stay connected!
 Join Talent Community
 Results based on your search
-Showing 231 results for "graduate program"
+Showing 232 results for "graduate program"
 the results are updated
 Search from below list
 Sort by:
@@ -152,6 +152,13 @@ Category
 Vocational & Development Programs
 We are looking for a Manufacturing Biotechnologist to support the Biochemical Manufacturing Department at Roche Singapore. Contribute to process improvement and equipment preparation, while adhering to safety and cGMP standards. Ideal for candidates with a life sciences or engineering background and strong teamwork skills.
 Save job Manufacturing Biotechnologist - Train and Place Program 202409-123295 to job cart
+Manufacturing Biotechnologist Trainee - Attach and Train Program
+Location
+Singapore, Central Singapore, Singapore
+Category
+Vocational & Development Programs
+We are looking for a Manufacturing Biotechnologist Trainee to join Roche's Career Conversion Programme. This role involves supporting the Biochemical Manufacturing Department, ensuring compliance with safety and cGMP guidelines, and participating in process improvement initiatives. Ideal candidates will have a background in Life Sciences or Engineering and strong problem-solving skills.
+Save job Manufacturing Biotechnologist Trainee - Attach and Train Program 202604-110021 to job cart
 QA Specialist Trainee - Train & Place program
 Location
 Singapore, Central Singapore, Singapore
@@ -164,22 +171,15 @@ Location
 Singapore, Central Singapore, Singapore
 Category
 Vocational & Development Programs
-We are looking for a Manufacturing Biotechnologist Trainee to join Roche's innovative team. This role offers a unique opportunity to develop your skills in biotechnology and contribute to life-changing healthcare solutions. Join us in building a healthier future together!
-Save job Manufacturing Biotechnologist Trainee - Attach & Train program 202604-110596 to job cart
+We are looking for a Manufacturing Biotechnologist Trainee to support biochemical manufacturing operations, ensuring compliance with safety and quality standards. Key responsibilities include preparing equipment, monitoring processing equipment, and troubleshooting issues. Ideal candidates have relevant experience and strong problem-solving skills.
+Save job Manufacturing Biotechnologist Trainee - Attach & Train program 202603-108110 to job cart
 Manufacturing Biotechnologist Trainee - Attach & Train program
 Location
 Singapore, Central Singapore, Singapore
 Category
 Vocational & Development Programs
-We are looking for a Manufacturing Biotechnologist Trainee to support biochemical manufacturing operations, ensuring compliance with safety and quality standards. Key responsibilities include preparing equipment, monitoring processing equipment, and troubleshooting issues. Ideal candidates have relevant experience and strong problem-solving skills.
-Save job Manufacturing Biotechnologist Trainee - Attach & Train program 202603-108110 to job cart
-Manufacturing Biotechnologist Trainee - Attach and Train Program
-Location
-Singapore, Central Singapore, Singapore
-Category
-Vocational & Development Programs
-We are looking for a Manufacturing Biotechnologist Trainee to join Roche's Career Conversion Programme. This role involves supporting the Biochemical Manufacturing Department, ensuring compliance with safety and cGMP guidelines, and participating in process improvement initiatives. Ideal candidates will have a background in Life Sciences or Engineering and strong problem-solving skills.
-Save job Manufacturing Biotechnologist Trainee - Attach and Train Program 202604-110021 to job cart
+We are looking for a Manufacturing Biotechnologist Trainee to join Roche's innovative team. This role offers a unique opportunity to develop your skills in biotechnology and contribute to life-changing healthcare solutions. Join us in building a healthier future together!
+Save job Manufacturing Biotechnologist Trainee - Attach & Train program 202604-110596 to job cart
 1
 2
 3

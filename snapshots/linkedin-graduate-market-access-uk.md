@@ -2,15 +2,15 @@
 URL: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=graduate%20market%20access&location=United%20Kingdom&f_TPR=r2592000
 Final URL: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=graduate%20market%20access&location=United%20Kingdom&f_TPR=r2592000
 Status: HTTP 200
-Captured: 2026-11-04 15:49 UTC
+Captured: 2026-11-04 16:05 UTC
 
 ## Job-like links (6)
-- Graduate Market Analyst (Pharma) -> https://uk.linkedin.com/jobs/view/graduate-market-analyst-pharma-at-network-scientific-recruitment-4475547367?position=1&pageNum=0&refId=sx%2BP2VWX1dL8BozXoaUuZg%3D%3D&trackingId=44DNJh5hMkHaWQMSNbvF4g%3D%3D
-- Healthcare Analyst - Oncology & Hematology -> https://uk.linkedin.com/jobs/view/healthcare-analyst-oncology-hematology-at-globaldata-plc-4477014098?position=2&pageNum=0&refId=sx%2BP2VWX1dL8BozXoaUuZg%3D%3D&trackingId=%2BJyOmYBKg2jN9q80rcYMfQ%3D%3D
-- Strategy Associate Consultant - Pharmaceutical Pricing & Market Access -> https://uk.linkedin.com/jobs/view/strategy-associate-consultant-pharmaceutical-pricing-market-access-at-zs-4484601692?position=3&pageNum=0&refId=sx%2BP2VWX1dL8BozXoaUuZg%3D%3D&trackingId=boPgTgwtgrhJ9uOQnbGlOQ%3D%3D
-- Fall 2027 Associate Consultant, Life Sciences Strategy -> https://uk.linkedin.com/jobs/view/fall-2027-associate-consultant-life-sciences-strategy-at-kx-advisors-4469197992?position=4&pageNum=0&refId=sx%2BP2VWX1dL8BozXoaUuZg%3D%3D&trackingId=%2FYLUwgFlgsl09euTcXZi1g%3D%3D
-- Value Analyst HE -> https://uk.linkedin.com/jobs/view/value-analyst-he-at-adelphi-group-4439864263?position=5&pageNum=0&refId=sx%2BP2VWX1dL8BozXoaUuZg%3D%3D&trackingId=Rr63B9ofUf9YBNd8nsFDzQ%3D%3D
-- Junior Commercial Specialist - Branded Prescription Medicines -> https://uk.linkedin.com/jobs/view/junior-commercial-specialist-branded-prescription-medicines-at-boots-uk-4482593602?position=10&pageNum=0&refId=sx%2BP2VWX1dL8BozXoaUuZg%3D%3D&trackingId=itdyvID3KP4zOV5Y%2Be7qfg%3D%3D
+- Graduate Market Analyst (Pharma) -> https://uk.linkedin.com/jobs/view/graduate-market-analyst-pharma-at-network-scientific-recruitment-4475547367?position=1&pageNum=0&refId=Bz4kwRm%2F%2FLAiXogsGIJFQQ%3D%3D&trackingId=ALytmgLBYp%2FP6E8xMixjcQ%3D%3D
+- Healthcare Analyst - Oncology & Hematology -> https://uk.linkedin.com/jobs/view/healthcare-analyst-oncology-hematology-at-globaldata-plc-4477014098?position=2&pageNum=0&refId=Bz4kwRm%2F%2FLAiXogsGIJFQQ%3D%3D&trackingId=2waw0fRzTTYCOZbMek%2FlrQ%3D%3D
+- Strategy Associate Consultant - Pharmaceutical Pricing & Market Access -> https://uk.linkedin.com/jobs/view/strategy-associate-consultant-pharmaceutical-pricing-market-access-at-zs-4484601692?position=3&pageNum=0&refId=Bz4kwRm%2F%2FLAiXogsGIJFQQ%3D%3D&trackingId=TUG1A18FIpkP6Td%2B%2BrLUgw%3D%3D
+- Fall 2027 Associate Consultant, Life Sciences Strategy -> https://uk.linkedin.com/jobs/view/fall-2027-associate-consultant-life-sciences-strategy-at-kx-advisors-4469197992?position=4&pageNum=0&refId=Bz4kwRm%2F%2FLAiXogsGIJFQQ%3D%3D&trackingId=u9THKQ2BTx%2BAsrVNknToEg%3D%3D
+- Value Analyst HE -> https://uk.linkedin.com/jobs/view/value-analyst-he-at-adelphi-group-4439864263?position=5&pageNum=0&refId=Bz4kwRm%2F%2FLAiXogsGIJFQQ%3D%3D&trackingId=vv5a07YPVTITaLiXsqDUbg%3D%3D
+- Junior Commercial Specialist - Branded Prescription Medicines -> https://uk.linkedin.com/jobs/view/junior-commercial-specialist-branded-prescription-medicines-at-boots-uk-4482593602?position=10&pageNum=0&refId=Bz4kwRm%2F%2FLAiXogsGIJFQQ%3D%3D&trackingId=BWqDutr1f1k2GSd4Oyhdcw%3D%3D
 
 ## Page text
 Graduate Market Analyst (Pharma)

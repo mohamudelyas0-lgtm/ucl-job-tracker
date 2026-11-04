@@ -2,7 +2,7 @@
 URL: https://www.deloitte.com/uk/en/careers/students.html
 Final URL: https://www.deloitte.com/uk/en/careers/students.html
 Status: HTTP 404
-Captured: 2026-11-04 15:44 UTC
+Captured: 2026-11-04 16:00 UTC
 
 ## Job-like links (3)
 - Business Process Solutions -> https://www.deloitte.com/uk/en/services/tax/services/business-process-solutions.html?icid=bn_business-process-solutions-overview

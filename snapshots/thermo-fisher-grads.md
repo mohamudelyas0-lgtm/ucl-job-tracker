@@ -2,7 +2,7 @@
 URL: https://jobs.thermofisher.com/global/en/search-results?keywords=graduate%20leadership
 Final URL: https://jobs.thermofisher.com/global/en/search-results?keywords=graduate%20leadership
 Status: HTTP 200
-Captured: 2026-11-04 15:50 UTC
+Captured: 2026-11-04 16:05 UTC
 
 ## Job-like links (15)
 - Marketing & Communications -> https://jobs.thermofisher.com/global/en/c/marketing-communications-jobs
@@ -46,7 +46,7 @@ Operations (181)
 Jobs
 Clinical Research (161)
 Jobs
-Research & Development (150)
+Research & Development (149)
 Jobs
 Sales & Business Development (76)
 Jobs
@@ -90,7 +90,7 @@ Manage alerts
 ​​​​​​Join our Talent Community
 Showing Search results for "graduate leadership"
 Search from below list
-921 Jobs Sort by
+920 Jobs Sort by
 Most relevant
 Most recent
 General Management Graduate Leadership Development Program
@@ -153,16 +153,16 @@ Senior E1-CNC Administrator
 Location
 Bangalore, Karnātaka, India
 Job Id
-R-01348658
-We are looking for a Senior E1-CNC Administrator to oversee the maintenance and deployment of EnterpriseOne global infrastructure. You will manage JDE 9.2 systems, coordinate with cross-functional teams, and provide technical support. Ideal candidates have significant JDE-EnterpriseOne experience and strong expertise in cloud environments.
+R-01363943
+Take on the role of Senior E1-CNC Administrator, overseeing the maintenance and deployment of EnterpriseOne global infrastructure. Manage JDE EnterpriseOne configuration, security, and object management, while supporting applications and infrastructure teams. Ideal for candidates with significant JDE- E1 CNC experience and strong technical expertise.
 Apply Now
 Senior E1-CNC Administrator
 Senior E1-CNC Administrator
 Location
 Bangalore, Karnātaka, India
 Job Id
-R-01363943
-Take on the role of Senior E1-CNC Administrator, overseeing the maintenance and deployment of EnterpriseOne global infrastructure. Manage JDE EnterpriseOne configuration, security, and object management, while supporting applications and infrastructure teams. Ideal for candidates with significant JDE- E1 CNC experience and strong technical expertise.
+R-01348658
+We are looking for a Senior E1-CNC Administrator to oversee the maintenance and deployment of EnterpriseOne global infrastructure. You will manage JDE 9.2 systems, coordinate with cross-functional teams, and provide technical support. Ideal candidates have significant JDE-EnterpriseOne experience and strong expertise in cloud environments.
 Apply Now
 Senior E1-CNC Administrator
 EHS Intern

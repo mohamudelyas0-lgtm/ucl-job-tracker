@@ -2,7 +2,7 @@
 URL: https://www.prospects.ac.uk/graduate-jobs/pharmaceuticals
 Final URL: https://www.prospects.ac.uk/graduate-jobs/pharmaceuticals
 Status: HTTP 404
-Captured: 2026-11-04 15:50 UTC
+Captured: 2026-11-04 16:07 UTC
 
 ## Job-like links (6)
 - Search graduate jobs -> https://www.prospects.ac.uk/graduate-jobs

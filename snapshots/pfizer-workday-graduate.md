@@ -2,7 +2,7 @@
 URL: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers?q=graduate
 Final URL: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers?q=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:48 UTC
+Captured: 2026-11-04 16:03 UTC
 
 ## Job-like links (7)
 - Graduate Data Scientist (Pfizer Ringaskiddy) -> https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Ireland---Cork---Ringaskiddy/Graduate-Data-Scientist--Pfizer-Ringaskiddy-_4966660?q=graduate

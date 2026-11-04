@@ -2,9 +2,9 @@
 URL: https://careers.bcg.com/global/en/search-results?keywords=london
 Final URL: https://careers.bcg.com/global/en/search-results?keywords=london
 Status: HTTP 200
-Captured: 2026-11-04 15:45 UTC
+Captured: 2026-11-04 16:00 UTC
 
-## Job-like links (13)
+## Job-like links (11)
 - Early Careers -> https://careers.bcg.com/global/en/early-careers
 - Internship Opportunities -> https://careers.bcg.com/global/en/internship-opportunities
 - Students & Campus Programs -> https://careers.bcg.com/global/en/on-campus
@@ -12,12 +12,10 @@ Captured: 2026-11-04 15:45 UTC
 - Business Operations -> https://careers.bcg.com/global/en/teams/business-operations
 - Design Strategy -> https://careers.bcg.com/global/en/teams/design
 - Marketing and Communications -> https://careers.bcg.com/global/en/teams/marketing-communications
-- Senior AI Tech Consultant - Telecommunications - London | BCG Platinion -> https://careers.bcg.com/global/en/job/54614/Senior-AI-Tech-Consultant-Telecommunications-London-BCG-Platinion
-- APPLY NOW SENIOR AI TECH CONSULTANT - TELECOMMUNICATIONS - LONDON | BCG PLATINION -> https://experiencedtalent.bcg.com/careerhub/explore/jobs/790304241941?post_onboarding_pid=790304241941&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom
-- AI Tech Consultant – Enterprise Solutions (ERP Transformation) - London | BCG Platinion -> https://careers.bcg.com/global/en/job/57009/AI-Tech-Consultant-Enterprise-Solutions-ERP-Transformation-London-BCG-Platinion
-- APPLY NOW AI TECH CONSULTANT – ENTERPRISE SOLUTIONS (ERP TRANSFORMATION) - LONDON | BCG PLATINION -> https://experiencedtalent.bcg.com/careerhub/explore/jobs/790314310616?post_onboarding_pid=790314310616&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom
 - Director - BCG Vantage, Operations; Supply Chain -> https://careers.bcg.com/global/en/job/59048/Director-BCG-Vantage-Operations;-Supply-Chain
 - APPLY NOW DIRECTOR - BCG VANTAGE, OPERATIONS; SUPPLY CHAIN -> https://experiencedtalent.bcg.com/careerhub/explore/jobs/790317734108?post_onboarding_pid=790317734108&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom
+- Senior Director - MDP Compensation & Equity Programs -> https://careers.bcg.com/global/en/job/59699/Senior-Director-MDP-Compensation-Equity-Programs
+- APPLY NOW SENIOR DIRECTOR - MDP COMPENSATION & EQUITY PROGRAMS -> https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318706750?post_onboarding_pid=790318706750&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom
 
 ## Page text
 Skip to main content
@@ -80,6 +78,24 @@ results
 SORT BY
 Most relevant
 Most recent
+Director - BCG Vantage, Operations; Supply Chain
+Available in 6 locations
+Category
+Expertise and Insights
+Job Id
+59048
+We are looking for a Director – Operations; Supply Chain to shape strategic priorities and drive innovation at BCG Vantage. Join us in delivering value-added solutions and leading a team of experts to enhance supply chain performance and capabilities.
+APPLY NOW
+DIRECTOR - BCG VANTAGE, OPERATIONS; SUPPLY CHAIN
+BCG Vantage Global Senior Director – AI Cost Advantage
+Available in 4 locations
+Category
+Expertise and Insights
+Job Id
+59049
+We are looking for a BCG Vantage Global Senior Director – AI Cost Advantage to lead our team in driving strategy and execution across functional practice areas. This role offers the opportunity to shape the future of cost transformation while collaborating with senior stakeholders and managing a talented team.
+APPLY NOW
+BCG VANTAGE GLOBAL SENIOR DIRECTOR – AI COST ADVANTAGE
 Senior AI Factory Product Builder, United States - BCG X
 Available in 13 locations
 Associated with 3 categories
@@ -88,6 +104,15 @@ Job Id
 We are looking for a Senior AI Factory Product Builder to design and deploy AI-powered solutions that accelerate BCG’s consulting delivery. You will build scalable products and assets, collaborating with consultants and product teams. Ideal candidates have strong experience in AI engineering and a passion for innovation.
 APPLY NOW
 SENIOR AI FACTORY PRODUCT BUILDER, UNITED STATES - BCG X
+Global IT Executive Director - Digital Workplace Solutions
+Available in 4 locations
+Category
+Business Operations
+Job Id
+58993
+We are looking for a Global IT Executive Director to lead the Digital Workplace Solutions at BCG. This role involves defining strategy, accelerating transformation, and delivering measurable business outcomes across a significant portfolio. Join us to shape the future of employee experience through innovative technology and collaboration.
+APPLY NOW
+GLOBAL IT EXECUTIVE DIRECTOR - DIGITAL WORKPLACE SOLUTIONS
 Temp: NAMR Offer Senior Manager - Transactions & Integrations
 Available in 4 locations
 Category
@@ -97,6 +122,42 @@ Job Id
 We are recruiting a Senior Manager to lead the Transactions & Integrations team, shaping strategy and driving execution across North America. This role partners with senior leadership, manages complex initiatives, and oversees people and operations. Ideal for experienced professionals with strong project management and analytical skills.
 APPLY NOW
 TEMP: NAMR OFFER SENIOR MANAGER - TRANSACTIONS & INTEGRATIONS
+Global L&D Analytics Director - 7 month FTC
+Available in 2 locations
+Category
+People and HR
+Job Id
+59435
+We are currently hiring a Global L&D Analytics Director to lead enterprise-wide analytics strategy for Learning & Development. Drive data-driven decision-making and manage the LMS transformation agenda. Ideal for experienced professionals in learning analytics or management consulting with strong communication and stakeholder management skills.
+APPLY NOW
+GLOBAL L&D ANALYTICS DIRECTOR - 7 MONTH FTC
+Global AI/ML Engineer Senior Manager
+Available in 2 locations
+Category
+Technology and Engineering
+Job Id
+58180
+Become part of our team as a Global AI/ML Engineer Senior Manager, leading the development and optimization of Generative AI tools and IT solutions. Drive the implementation of scalable software, collaborate with cross-functional teams, and ensure secure deployment of AI-powered SaaS tools. Ideal for experienced professionals with strong technical expertise in AI, SaaS, and cloud technologies.
+APPLY NOW
+GLOBAL AI/ML ENGINEER SENIOR MANAGER
+Senior Director - MDP Compensation & Equity Programs
+Available in 2 locations
+Category
+People and HR
+Job Id
+59699
+We are seeking a Senior Director to lead and develop compensation and equity programs for global Managing Directors and Partners. Advise on complex compensation matters, manage country programs, and collaborate with senior leadership. Ideal for an experienced professional with deep tax and legal expertise, strong communication skills, and a proven ability to influence senior stakeholders.
+APPLY NOW
+SENIOR DIRECTOR - MDP COMPENSATION & EQUITY PROGRAMS
+Global IT Software Engineer Senior Director & Tech Area Lead - Legal
+Available in 2 locations
+Category
+Technology and Engineering
+Job Id
+59767
+Join us as a Global IT Software Engineer Senior Director & Tech Area Lead - Legal, where you will define technical direction for legal technology, oversee platform strategy, and lead cross-functional teams. Ideal for experienced leaders with deep technical and legal expertise in complex, matrixed environments.
+APPLY NOW
+GLOBAL IT SOFTWARE ENGINEER SENIOR DIRECTOR & TECH AREA LEAD - LEGAL
 Principal Engineer, BCG Expand, London
 Location
 London, United Kingdom
@@ -107,74 +168,6 @@ Job Id
 We are currently hiring a Principal Engineer to lead the design and implementation of scalable data solutions for advanced analytics and data science. Drive strategic product direction and collaborate with senior stakeholders. Ideal for experienced professionals with strong technical expertise in data engineering and cloud technologies.
 APPLY NOW
 PRINCIPAL ENGINEER, BCG EXPAND, LONDON
-(Senior) AI Factory Product Builder, London - BCG X
-Location
-London, United Kingdom
-Associated with 3 categories
-Job Id
-58305
-We are expanding our team: As an AI Factory Product Builder, you will design and deploy AI-powered solutions to accelerate delivery and improve quality across BCG’s consulting operations. Collaborate with consultants and product teams to deliver scalable, reusable assets. Ideal for candidates with hands-on experience in AI solution development and a strong technical background.
-APPLY NOW
-(SENIOR) AI FACTORY PRODUCT BUILDER, LONDON - BCG X
-Lead AI Tech Architect - Salesforce/CRM - London | BCG Platinion
-Location
-London, United Kingdom
-Category
-Technology and Engineering
-Job Id
-51859
-We are seeking a Lead AI Tech Architect to advise clients on CRM and enterprise technology strategies, focusing on Salesforce and related platforms. You will define business-aligned CRM solutions and drive organisational change. Ideal candidates bring extensive IT architecture experience and expertise in CRM integrations.
-APPLY NOW
-LEAD AI TECH ARCHITECT - SALESFORCE/CRM - LONDON | BCG PLATINION
-Senior AI Tech Architect - Salesforce/CRM - London | BCG Platinion
-Location
-London, United Kingdom
-Category
-Technology and Engineering
-Job Id
-51860
-We are looking for experienced, passionate, and creative IT Architects to unlock our client's digital potential and ignite change. Join BCG Platinion to develop comprehensive CRM strategies and design robust architectures that integrate CRM and commerce solutions, while working alongside a collaborative team in a dynamic environment.
-APPLY NOW
-SENIOR AI TECH ARCHITECT - SALESFORCE/CRM - LONDON | BCG PLATINION
-Senior AI Tech Consultant - Telecommunications - London | BCG Platinion
-Location
-London, United Kingdom
-Category
-Technology and Engineering
-Job Id
-54614
-We are looking for a Senior AI Tech Consultant to drive complex technology and transformation initiatives within the telecommunications sector. Lead workstreams, shape digital channels, and deliver AI-enabled solutions. Ideal for experienced professionals with strong telecom expertise and a background in technology consulting.
-APPLY NOW
-SENIOR AI TECH CONSULTANT - TELECOMMUNICATIONS - LONDON | BCG PLATINION
-AI Solutions Architect - Gen AI - London | BCG Platinion
-Location
-London, United Kingdom
-Category
-Technology and Engineering
-Job Id
-58225
-Join us as an AI Solutions Architect to design scalable, agentic AI platforms and intelligent systems that drive business impact. Lead the development of AI-powered delivery pipelines and embed AI into enterprise architectures. Ideal for candidates with strong AI systems experience and a background in computer science or related fields.
-APPLY NOW
-AI SOLUTIONS ARCHITECT - GEN AI - LONDON | BCG PLATINION
-AI Tech Consultant – Enterprise Solutions (ERP Transformation) - London | BCG Platinion
-Location
-London, United Kingdom
-Category
-Technology and Engineering
-Job Id
-57009
-We are currently hiring a driven AI Tech Consultant to support ERP-enabled business transformation programmes. Contribute to programme delivery, apply SAP Activate frameworks, and engage with clients to align solutions with business priorities. Ideal for candidates with ERP and SAP expertise and early consulting experience.
-APPLY NOW
-AI TECH CONSULTANT – ENTERPRISE SOLUTIONS (ERP TRANSFORMATION) - LONDON | BCG PLATINION
-Director - BCG Vantage, Operations; Supply Chain
-Available in 6 locations
-Category
-Expertise and Insights
-Job Id
-59048
-We are looking for a Director – Operations; Supply Chain to shape strategic priorities and drive innovation at BCG Vantage. Join us in delivering value-added solutions and leading a team of experts to enhance supply chain performance and capabilities.
-APPLY NOW
-DIRECTOR - BCG VANTAGE, OPERATIONS; SUPPLY CHAIN
 1
 2
 3
@@ -198,7 +191,7 @@ In compliance with the Transparency in Coverage Final Rules (85 FR 72158) issued
 Sandy
 Enabled Chatbot Sounds
 This is an AI-powered chatbot. For information on how BCG handles your personal data, please review our recruitment privacy policy.
-Today 03:44 pm
+Today 04:00 pm
 Bot message
 Hi there, I'm here to help!
 Let's get started!

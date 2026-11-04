@@ -2,7 +2,7 @@
 URL: https://astrazeneca.wd3.myworkdayjobs.com/Careers?q=graduate
 Final URL: https://astrazeneca.wd3.myworkdayjobs.com/Careers?q=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:46 UTC
+Captured: 2026-11-04 16:02 UTC
 
 ## Job-like links (12)
 - Epidemiology Intern -> https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Boston---MA/Epidemiology-Intern_R-263378-1?q=graduate

@@ -2,7 +2,7 @@
 URL: https://bionest.com/careers/
 Final URL: https://www.accenture.com/en
 Status: HTTP 200
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:58 UTC
 
 ## Job-like links (6)
 - Marketing and Experience, 12 of 19 -> https://www.accenture.com/en/services/marketing-experience

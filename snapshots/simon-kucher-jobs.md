@@ -2,7 +2,7 @@
 URL: https://www.simon-kucher.com/en/careers/jobs
 Final URL: https://www.simon-kucher.com/en/careers/jobs
 Status: HTTP 404
-Captured: 2026-11-04 15:42 UTC
+Captured: 2026-11-04 15:57 UTC
 
 ## Job-like links (9)
 - Software for Commercial Growth – Engine -> https://skengine.simon-kucher.com/

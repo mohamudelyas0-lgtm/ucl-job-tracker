@@ -2,7 +2,7 @@
 URL: https://www.alcimed.com/en/join-us/
 Final URL: https://www.alcimed.com/en/join-us/
 Status: HTTP 404
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:59 UTC
 
 ## Job-like links (14)
 - Strategic marketing -> https://www.alcimed.com/en/our-missions/strategic-marketing/

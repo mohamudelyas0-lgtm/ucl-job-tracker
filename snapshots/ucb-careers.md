@@ -2,7 +2,7 @@
 URL: https://careers.ucb.com/global/en/search-results?keywords=graduate
 Final URL: https://careers.ucb.com/global/en/search-results?keywords=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:49 UTC
+Captured: 2026-11-04 16:04 UTC
 
 ## Job-like links (1)
 - Early Careers -> https://careers.ucb.com/global/en/early-careers
@@ -85,7 +85,7 @@ Privacy Policy
 UCB Career bot
 Enabled Chatbot Sounds
 The information you provide to the chatbot will be collected to improve your experience. Please read our privacy policy to see how we are storing and protecting your data
-Today 03:49 pm
+Today 04:04 pm
 Bot message
 Hi there, I'm here to help!
 Let's get started!

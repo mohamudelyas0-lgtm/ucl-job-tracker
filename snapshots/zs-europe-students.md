@@ -2,7 +2,7 @@
 URL: https://jobs.zs.com/jobs?keywords=graduate
 Final URL: https://jobs.zs.com/jobs?keywords=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:41 UTC
+Captured: 2026-11-04 15:57 UTC
 
 ## Job-like links (10)
 - AI Strategy Consultant Intern (North America - University Students) -> https://jobs.zs.com/jobs/63441?lang=en-us

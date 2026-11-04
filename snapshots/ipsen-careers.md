@@ -2,7 +2,7 @@
 URL: https://careers.ipsen.com/search/?q=graduate
 Final URL: https://ipsen.wd103.myworkdayjobs.com/fr-FR/Ipsen_Careers?q=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:48 UTC
+Captured: 2026-11-04 16:04 UTC
 
 ## Job-like links (3)
 - 市场副总监， 罕见病/Associate Marketing Director, Rare Disease -> https://ipsen.wd103.myworkdayjobs.com/fr-FR/Ipsen_Careers/job/Shanghai/---Associate-Marketing-Director--Rare-Disease_R-21555?q=graduate

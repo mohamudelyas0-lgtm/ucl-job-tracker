@@ -2,7 +2,7 @@
 URL: https://careers.novonordisk.com/search/?q=graduate
 Final URL: https://careers.novonordisk.com/search/?q=graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:49 UTC
+Captured: 2026-11-04 16:05 UTC
 
 ## Job-like links (4)
 - Business Finance Manager -> https://careers.novonordisk.com/job/S%C3%A3o-Paulo-Business-Finance-Manager-S%C3%A3o/1453154733/

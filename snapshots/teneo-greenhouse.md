@@ -2,7 +2,7 @@
 URL: https://job-boards.greenhouse.io/teneolinkedin
 Final URL: https://job-boards.greenhouse.io/teneolinkedin
 Status: HTTP 200
-Captured: 2026-11-04 15:40 UTC
+Captured: 2026-11-04 15:56 UTC
 
 ## Job-like links (37)
 - Senior People Operations Coordinator Cardiff, United Kingdom -> https://job-boards.greenhouse.io/teneolinkedin/jobs/7978172003

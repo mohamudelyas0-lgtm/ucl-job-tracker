@@ -2,7 +2,7 @@
 URL: https://careers.amgen.com/en/search-jobs/graduate
 Final URL: https://careers.amgen.com/en/search-jobs/graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:48 UTC
+Captured: 2026-11-04 16:04 UTC
 
 ## Job-like links (18)
 - Development Operations -> https://careers.amgen.com/en/development-operations-jobs

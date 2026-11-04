@@ -2,7 +2,7 @@
 URL: https://www.kearney.com/careers/students-and-graduates
 Final URL: https://www.kearney.com/careers/students-and-graduates
 Status: HTTP 404
-Captured: 2026-11-04 15:44 UTC
+Captured: 2026-11-04 16:00 UTC
 
 ## Job-like links (6)
 - Operations and Performance -> https://www.kearney.com/service/operations-performance
@@ -16,6 +16,7 @@ Captured: 2026-11-04 15:44 UTC
 Skip to main content
 Skip to footer
 Open Accessibility Menu
+This website utilises technologies such as cookies to enable essential site functionality, as well as for analytics, personalisation, and targeted advertising. To learn more, view the following link: Cookie Policy
 Your industry
 Your needs
 About us

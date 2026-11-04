@@ -1,15 +1,15 @@
 # Healthcare consulting Basel - Roland Berger jobs
 URL: https://www.rolandberger.com/en/Join/
-Final URL: https://www.rolandberger.com/en/Join/Join-Us/Start-Your-Journey/
+Final URL: https://www.rolandberger.com/en/Join/
 Status: HTTP 522
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:59 UTC
 
 ## Job-like links (0)
 
 ## Page text
 Connection timed out Error code 522
 Visit cloudflare.com for more information.
-2026-11-04 15:43:28 UTC
+2026-11-04 15:59:00 UTC
 You
 Browser
 Working
@@ -26,4 +26,4 @@ If you're a visitor of this website:
 Please try again in a few minutes.
 If you're the owner of this website:
 Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources. Additional troubleshooting information here.
-Cloudflare Ray ID: a554bb8f09c64f8d • Your IP: Click to reveal • Performance & security by Cloudflare
+Cloudflare Ray ID: a554d25518141248 • Your IP: Click to reveal • Performance & security by Cloudflare

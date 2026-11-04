@@ -2,7 +2,7 @@
 URL: https://job-boards.greenhouse.io/putnamassociates
 Final URL: https://job-boards.greenhouse.io/putnamassociates
 Status: HTTP 404
-Captured: 2026-11-04 15:42 UTC
+Captured: 2026-11-04 15:57 UTC
 
 ## Job-like links (0)
 

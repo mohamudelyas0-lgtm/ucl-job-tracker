@@ -4,7 +4,7 @@ Final URL: https://www.paconsulting.com/careers/jobs
 Status: FAILED Error: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.paconsulting.com/careers/jobs
 Call log:
 navigating to "https://www.paconsulting.com/careers/jobs
-Captured: 2026-11-04 15:44 UTC
+Captured: 2026-11-04 16:00 UTC
 
 ## Job-like links (0)
 

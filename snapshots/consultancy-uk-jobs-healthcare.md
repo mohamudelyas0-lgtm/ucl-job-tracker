@@ -2,7 +2,7 @@
 URL: https://www.consultancy.uk/jobs/industries/healthcare
 Final URL: https://www.consultancy.uk/jobs/industries/healthcare
 Status: HTTP 404
-Captured: 2026-11-04 15:51 UTC
+Captured: 2026-11-04 16:07 UTC
 
 ## Job-like links (4)
 - Working as a consultant -> https://www.consultancy.uk/career/working-as-a-consultant

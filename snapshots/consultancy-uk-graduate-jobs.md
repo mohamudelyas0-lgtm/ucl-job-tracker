@@ -2,7 +2,7 @@
 URL: https://www.consultancy.uk/graduate-jobs
 Final URL: https://www.consultancy.uk/graduate-jobs
 Status: HTTP 200
-Captured: 2026-11-04 15:50 UTC
+Captured: 2026-11-04 16:06 UTC
 
 ## Job-like links (7)
 - Working as a consultant -> https://www.consultancy.uk/career/working-as-a-consultant

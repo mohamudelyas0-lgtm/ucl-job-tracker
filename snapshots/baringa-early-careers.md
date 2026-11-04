@@ -2,7 +2,7 @@
 URL: https://www.baringa.com/en/careers/early-careers/
 Final URL: https://www.baringa.com/en/careers/early-careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:44 UTC
+Captured: 2026-11-04 16:00 UTC
 
 ## Job-like links (2)
 - Download summer undergraduate internship pack -> https://www.baringa.com/globalassets/careers/graduate/pdfs-and-downloads/global-summer-internship-pack-2026.pdf
@@ -33,10 +33,10 @@ Early Careers
 Early Careers
 Develop your career from day one
 We put people first and create impact that lasts. And we want to help you do the same. Baringa could be the start of a career as a capital markets advisor, energy trading specialist, vaccine supply chain expert, digital innovator and so much more. We want team players who are kind, curious and fuelled by the ambition to be great at what they do. Work alongside our industry experts and real clients from day one – from FTSE100 companies to bright new start-ups, and across every sector.
-£300 well-being pot
-Every Baringa employee gets £300 a year to put towards their well-being. No conditions – just so long as you use it to do something that makes you feel great.
-#1 Great Place to Work
-This year, we were ranked #1 the ‘Best Workplaces for Wellbeing’ in the UK
+We pay everyone
+We pay all our interns and graduate analysts across all our programmes. And if you need a salary advance to help with moving costs, we can sort that too
+5 years = 2 weeks extra holidays
+After 5 years of continuous service, we give every employee a well-deserved ‘Re-Charge’ break with an extra 2 weeks’ holiday
 Everyone shares the profit
 Every employee participates in our profit share scheme and has a stake in our success
 "You get the pleasure of working alongside genuinely kind and fun people who want to have a good time while smashing client work."

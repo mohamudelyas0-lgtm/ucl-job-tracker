@@ -2,7 +2,7 @@
 URL: https://www.precisionaq.com/careers
 Final URL: https://www.precisionaq.com/careers
 Status: HTTP 404
-Captured: 2026-11-04 15:42 UTC
+Captured: 2026-11-04 15:58 UTC
 
 ## Job-like links (3)
 - International -> https://precisionaq.com/intl

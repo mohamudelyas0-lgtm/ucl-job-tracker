@@ -2,7 +2,7 @@
 URL: https://www.pfizer.co.uk/careers/early-careers
 Final URL: https://www.pfizer.co.uk/careers/early-careers
 Status: HTTP 404
-Captured: 2026-11-04 15:46 UTC
+Captured: 2026-11-04 16:02 UTC
 
 ## Job-like links (0)
 

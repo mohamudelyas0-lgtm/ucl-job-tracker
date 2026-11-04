@@ -2,7 +2,7 @@
 URL: https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=clinical%20graduate
 Final URL: https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=clinical+graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:45 UTC
+Captured: 2026-11-04 16:01 UTC
 
 ## Job-like links (1)
 - Associate Director - Oncology Statistics -> https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/UK--London--New-Oxford-Street/Associate-Director---Oncology-Statistics_450338-1?q=clinical+graduate

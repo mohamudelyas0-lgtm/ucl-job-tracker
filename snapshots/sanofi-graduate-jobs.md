@@ -2,7 +2,7 @@
 URL: https://jobs.sanofi.com/en/search-jobs/graduate
 Final URL: https://jobs.sanofi.com/en/search-jobs/graduate
 Status: HTTP 200
-Captured: 2026-11-04 15:47 UTC
+Captured: 2026-11-04 16:03 UTC
 
 ## Job-like links (18)
 - Corporate Functions & Business Operations -> https://jobs.sanofi.com/corporate-functions-business-operations

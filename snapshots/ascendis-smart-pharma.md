@@ -2,7 +2,7 @@
 URL: https://www.smart-pharma.com/careers
 Final URL: https://smart-pharma.com/careers
 Status: HTTP 404
-Captured: 2026-11-04 15:44 UTC
+Captured: 2026-11-04 16:00 UTC
 
 ## Job-like links (0)
 

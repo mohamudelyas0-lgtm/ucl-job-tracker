@@ -2,7 +2,7 @@
 URL: https://www.novartis.com/careers/career-search?search_api_fulltext=market%20access
 Final URL: https://www.novartis.com/careers/career-search?search_api_fulltext=market%20access
 Status: HTTP 200
-Captured: 2026-11-04 15:48 UTC
+Captured: 2026-11-04 16:05 UTC
 
 ## Job-like links (19)
 - International -> https://www.novartis.com/careers/career-search?search_api_fulltext=market%20access#international

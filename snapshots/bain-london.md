@@ -2,7 +2,7 @@
 URL: https://www.bain.com/careers/find-a-role/?filters=offices(275)
 Final URL: https://www.bain.com/careers/find-a-role/?filters=offices(275)
 Status: HTTP 200
-Captured: 2026-11-04 15:44 UTC
+Captured: 2026-11-04 15:59 UTC
 
 ## Job-like links (7)
 - Internships & Programs -> https://www.bain.com/careers/work-with-us/internships-programs/

@@ -2,7 +2,7 @@
 URL: https://www.brightnetwork.co.uk/graduate-jobs/pharmaceuticals-science/
 Final URL: https://www.brightnetwork.co.uk/graduate-jobs/pharmaceuticals-science/
 Status: HTTP 403
-Captured: 2026-11-04 15:50 UTC
+Captured: 2026-11-04 16:06 UTC
 
 ## Job-like links (0)
 

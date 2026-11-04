@@ -2,7 +2,7 @@
 URL: https://lumanity.com/careers/
 Final URL: https://lumanity.com/careers/working-at-lumanity/
 Status: HTTP 200
-Captured: 2026-11-04 15:42 UTC
+Captured: 2026-11-04 15:58 UTC
 
 ## Job-like links (8)
 - Commercialization Turn ideas into impact with our strategic commercialization expertise across the product lifecycle -> https://lumanity.com/capabilities/commercialization/

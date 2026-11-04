@@ -2,16 +2,15 @@
 URL: https://www.capgemini.com/gb-en/careers/career-paths/students-and-graduates/
 Final URL: https://www.capgemini.com/gb-en/careers/career-paths/graduates-and-apprenticeships/
 Status: HTTP 200
-Captured: 2026-11-04 15:45 UTC
+Captured: 2026-11-04 16:02 UTC
 
-## Job-like links (7)
+## Job-like links (6)
 - Marketing for customer experience -> https://www.capgemini.com/gb-en/insights/hot-topics/marketing-for-customer-experience/
 - Graduates & Apprenticeships -> https://www.capgemini.com/gb-en/careers/career-paths/graduates-and-apprenticeships/
 - Analyst recognition -> https://www.capgemini.com/gb-en/news/analyst-recognition/
 - Responsible business -> https://www.capgemini.com/gb-en/about-us/management-and-governance/responsible-business/
 - Graduates -> https://www.capgemini.com/gb-en/careers/career-paths/graduates-and-apprenticeships/graduates/
 - Read more about View our graduate brochure -> https://www.capgemini.com/gb-en/wp-content/uploads/sites/5/2026/02/13065_Graduate-brochure_Rebrand_V3.pdf
-- #CXStrategy -> https://www.youtube.com/results?search_query=%23CXStrategy
 
 ## Page text
 Skip to content

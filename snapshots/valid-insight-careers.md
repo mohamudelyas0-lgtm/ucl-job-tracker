@@ -2,7 +2,7 @@
 URL: https://www.validinsight.com/careers/
 Final URL: https://validinsight.com/careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:59 UTC
 
 ## Job-like links (0)
 

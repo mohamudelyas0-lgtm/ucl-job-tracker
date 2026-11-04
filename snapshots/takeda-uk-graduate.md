@@ -2,7 +2,7 @@
 URL: https://www.takeda.com/en-gb/careers/graduate-internship-programmes/
 Final URL: https://www.takeda.com/en-gb/careers/graduate-internship-programmes/
 Status: HTTP 200
-Captured: 2026-11-04 15:46 UTC
+Captured: 2026-11-04 16:02 UTC
 
 ## Job-like links (2)
 - Graduate and Internship Programmes -> https://www.takeda.com/en-gb/careers/graduate-internship-programmes
@@ -68,5 +68,5 @@ Accessibility Statement
 UK Modern Slavery Act
 Research Transparency
 Copyright 1995-2026 Takeda Pharmaceutical Company Limited. All rights reserved.
-This website uses cookies and other tracking technologies, and your privacy choice is important to us. We suggest you choose "Cookie Settings" to learn more about these cookies and to make your individualized choices. Do not sell or share my personal information
-Cookie Settings Reject All Cookies Allow All Cookies
+This website uses cookies and other tracking technologies, and your privacy choice is important to us. We suggest you choose "Cookie Settings" to learn more about these cookies and to make your individualized choices.
+Cookie Settings Allow All Cookies

@@ -2,7 +2,7 @@
 URL: https://takeda.wd3.myworkdayjobs.com/External?q=graduate
 Final URL: https://community.workday.com/maintenance-page
 Status: HTTP 500
-Captured: 2026-11-04 15:46 UTC
+Captured: 2026-11-04 16:02 UTC
 
 ## Job-like links (0)
 

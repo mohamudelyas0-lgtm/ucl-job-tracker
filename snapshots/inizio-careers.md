@@ -2,7 +2,7 @@
 URL: https://inizio.com/careers/
 Final URL: https://inizio.com/our-businesses/medical/careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:42 UTC
+Captured: 2026-11-04 15:57 UTC
 
 ## Job-like links (17)
 - Our businesses -> https://inizio.com/our-businesses/

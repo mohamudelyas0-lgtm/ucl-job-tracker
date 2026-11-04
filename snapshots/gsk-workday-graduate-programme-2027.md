@@ -2,7 +2,7 @@
 URL: https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=graduate%20programme%202027
 Final URL: https://gsk.wd5.myworkdayjobs.com/GSKCareers?q=graduate+programme+2027
 Status: HTTP 200
-Captured: 2026-11-04 15:47 UTC
+Captured: 2026-11-04 16:02 UTC
 
 ## Job-like links (14)
 - Communications (Multiple Roles and Locations) Industrial Placement, 2027 -> https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/UK--London--New-Oxford-Street/Communications--Multiple-Roles-and-Locations--Industrial-Placement--2027_445774?q=graduate+programme+2027

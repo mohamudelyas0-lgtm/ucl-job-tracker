@@ -2,11 +2,11 @@
 URL: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=supply%20chain%20graduate%20pharmaceutical&location=United%20Kingdom&f_TPR=r2592000
 Final URL: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=supply%20chain%20graduate%20pharmaceutical&location=United%20Kingdom&f_TPR=r2592000
 Status: HTTP 200
-Captured: 2026-11-04 15:49 UTC
+Captured: 2026-11-04 16:05 UTC
 
 ## Job-like links (2)
-- (Entry-Level) Account Management Coordinator -> https://uk.linkedin.com/jobs/view/entry-level-account-management-coordinator-at-fusion-group-4484026754?position=1&pageNum=0&refId=zl8z%2FYs5IeRMptSIlRJpRg%3D%3D&trackingId=YUKw4Jfi0yOStvq198MZwA%3D%3D
-- Associate, Clinical Logistics -> https://uk.linkedin.com/jobs/view/associate-clinical-logistics-at-gilead-sciences-4479392495?position=6&pageNum=0&refId=zl8z%2FYs5IeRMptSIlRJpRg%3D%3D&trackingId=iBSAIm4C5%2FEr0%2BL8r0sZwg%3D%3D
+- (Entry-Level) Account Management Coordinator -> https://uk.linkedin.com/jobs/view/entry-level-account-management-coordinator-at-fusion-group-4484026754?position=1&pageNum=0&refId=rELwjxenti83YZ4piq2uzw%3D%3D&trackingId=V38dE4baREUId%2FlDSbAb8Q%3D%3D
+- Associate, Clinical Logistics -> https://uk.linkedin.com/jobs/view/associate-clinical-logistics-at-gilead-sciences-4479392495?position=6&pageNum=0&refId=rELwjxenti83YZ4piq2uzw%3D%3D&trackingId=%2B1BcK95MuUP6s7ly%2BSUZxg%3D%3D
 
 ## Page text
 (Entry-Level) Account Management Coordinator

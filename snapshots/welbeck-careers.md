@@ -2,7 +2,7 @@
 URL: https://www.welbeck.com/careers
 Final URL: https://welbeck.com/careers
 Status: HTTP 404
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:58 UTC
 
 ## Job-like links (1)
 - How do I choose my consultant -> https://welbeck.com/going-private/choosing-a-consultant

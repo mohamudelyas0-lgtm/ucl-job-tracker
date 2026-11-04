@@ -2,7 +2,7 @@
 URL: https://bluematterconsulting.com/careers/
 Final URL: https://bluematterconsulting.com/careers/
 Status: HTTP 200
-Captured: 2026-11-04 15:43 UTC
+Captured: 2026-11-04 15:58 UTC
 
 ## Job-like links (8)
 - Product Strategy -> https://bluematterconsulting.com/strategic-advisory/product-strategy/
@@ -12,7 +12,7 @@ Captured: 2026-11-04 15:43 UTC
 - Market Access -> https://bluematterconsulting.com/strategic-advisory/market-access/
 - Marketing & Sales -> https://bluematterconsulting.com/strategic-advisory/marketing-sales/
 - Technology & Operations -> https://bluematterconsulting.com/strategic-advisory/market-research-data-analytics/technology-and-operations/
-- Supply Chain -> https://aimconnection.eu/
+- Supply Chain -> https://aimconnection.eu/?__hstc=172799676.08de6e04f7229c92636a8deb558487c8.1793807907179.1793807907179.1793807907179.1&__hssc=172799676.1.1793807907179&__hsfp=59f3ddde3bedad7fddc0e7df5ef3058c
 
 ## Page text
 We value your privacy

@@ -1,11 +1,12 @@
 # Crawl summary
-Run: 2026-11-04 15:53 UTC
+Run: 2026-11-04 16:09 UTC
 
 - AZ commercial grad: HTTP 200, 2 job-like links
 - AZ early talent: HTTP 200, 8 job-like links
 - AZ workday graduate: HTTP 200, 12 job-like links
 - AZ workday intern: HTTP 200, 18 job-like links
 - AbbVie students: HTTP 404, 0 job-like links
+- Abbott jobs Basel: HTTP 200, 5 job-like links
 - Accenture pinpoint: HTTP 200, 0 job-like links
 - Alcimed join us: HTTP 404, 14 job-like links
 - Alira Health workday: HTTP 200, 16 job-like links
@@ -13,7 +14,8 @@ Run: 2026-11-04 15:53 UTC
 - Ascendis? Smart Pharma: HTTP 404, 0 job-like links
 - Astellas careers: HTTP 500, 0 job-like links
 - Avalere Health careers: HTTP 200, 4 job-like links
-- BCG London: HTTP 200, 13 job-like links
+- Avalere graduate program: HTTP 200, 7 job-like links
+- BCG London: HTTP 200, 11 job-like links
 - BMS workday graduate: HTTP 200, 11 job-like links
 - Bain London: HTTP 200, 7 job-like links
 - Baringa early careers: HTTP 200, 2 job-like links
@@ -29,12 +31,15 @@ Run: 2026-11-04 15:53 UTC
 - CRA careers: FAILED Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.crai.com/
 Call log:
 navigating to "https://careers.crai.com/", waiting until "domcontentloade, 0 job-like links
+- CRA students & recent grads: HTTP 200, 29 job-like links
 - CSL graduate: HTTP 429, 0 job-like links
 - Cairneagle graduate hires: HTTP 200, 4 job-like links
+- Cairneagle interns: HTTP 200, 4 job-like links
 - Cairneagle work with us: HTTP 200, 4 job-like links
 - Candesic careers: HTTP 200, 0 job-like links
-- Capgemini Invent grads: HTTP 200, 7 job-like links
+- Capgemini Invent grads: HTTP 200, 6 job-like links
 - Carnall Farrar careers: HTTP 404, 1 job-like links
+- Clarivate careers LS consulting: HTTP 200, 0 job-like links
 - ClearView careers: HTTP 200, 2 job-like links
 - ClearView greenhouse: HTTP 200, 15 job-like links
 - Consultancy.uk graduate jobs: HTTP 200, 7 job-like links
@@ -45,11 +50,13 @@ navigating to "https://careers.crai.com/", waiting until "domcontentloade, 0 job
 - EY careers search: HTTP 200, 5 job-like links
 - EY graduate: HTTP 404, 25 job-like links
 - Ferring graduates: HTTP 404, 0 job-like links
-- GSK commercial: HTTP 200, 19 job-like links
-- GSK graduate programme: FAILED TimeoutError: Page.goto: Timeout 45000ms exceeded.
+- GSK commercial: FAILED TimeoutError: Page.goto: Timeout 45000ms exceeded.
 Call log:
-navigating to "https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/", waiting until "dom, 0 job-like links
-- GSK postgrad: HTTP 200, 17 job-like links
+navigating to "https://www.gsk.com/en-gb/careers/early-careers/graduate-programme/commercial/", waiting, 0 job-like links
+- GSK graduate programme: HTTP 429, 0 job-like links
+- GSK postgrad: FAILED TimeoutError: Page.goto: Timeout 45000ms exceeded.
+Call log:
+navigating to "https://www.gsk.com/en-gb/careers/early-careers/post-graduate-opportunities/", waiting u, 0 job-like links
 - GSK workday clinical graduate: HTTP 200, 1 job-like links
 - GSK workday graduate programme 2027: HTTP 200, 14 job-like links
 - GSK workday graduate: HTTP 200, 12 job-like links
@@ -58,6 +65,11 @@ navigating to "https://www.gsk.com/en-gb/careers/early-careers/graduate-programm
 Call log:
 navigating to "https://careers.galderma.com/", waiting until "domcont, 0 job-like links
 - Gilead graduate: HTTP 404, 0 job-like links
+- Globe Life Sciences careers: FAILED Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://globelifesciences.com/careers/
+Call log:
+navigating to "https://globelifesciences.com/careers/", wait, 0 job-like links
+- Guidehouse campus: HTTP 200, 9 job-like links
+- Gupta Strategists werken bij: HTTP 404, 0 job-like links
 - Haleon early careers: HTTP 404, 0 job-like links
 - Health Advances careers: HTTP 403, 0 job-like links
 - Healthcare consulting Basel - Roland Berger jobs: HTTP 522, 0 job-like links
@@ -70,6 +82,7 @@ navigating to "https://careers.galderma.com/", waiting until "domcont, 0 job-lik
 - J&J students: HTTP 403, 0 job-like links
 - KPMG grad vacancies: HTTP 200, 4 job-like links
 - Kearney jobs: HTTP 404, 6 job-like links
+- Kx Advisors careers: HTTP 200, 0 job-like links
 - LEK search jobs: HTTP 404, 27 job-like links
 - LEK students: HTTP 404, 27 job-like links
 - LEO Pharma graduate: FAILED Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.leo-pharma.com/students-graduates
@@ -83,19 +96,23 @@ navigating to "https://www.lifesciencedynamics.com/, 0 job-like links
 - LinkedIn - graduate market access UK: HTTP 200, 6 job-like links
 - LinkedIn - healthcare consulting Dubai: HTTP 200, 9 job-like links
 - LinkedIn - healthcare strategy analyst London: HTTP 200, 10 job-like links
+- LinkedIn - healthcare strategy consulting graduate UK: HTTP 200, 9 job-like links
 - LinkedIn - life sciences consulting Germany: HTTP 200, 10 job-like links
 - LinkedIn - life sciences consulting Netherlands: HTTP 200, 10 job-like links
 - LinkedIn - life sciences consulting Switzerland: HTTP 200, 10 job-like links
 - LinkedIn - life sciences consulting analyst London: HTTP 200, 10 job-like links
+- LinkedIn - life sciences strategy associate 2027 UK: HTTP 200, 10 job-like links
 - LinkedIn - market access intern Switzerland: HTTP 200, 7 job-like links
 - LinkedIn - market access masters intern Europe: HTTP 200, 8 job-like links
 - LinkedIn - pharma commercial graduate UK: HTTP 200, 10 job-like links
 - LinkedIn - pharma graduate Denmark: HTTP 200, 7 job-like links
 - LinkedIn - pharma graduate Ireland: HTTP 200, 8 job-like links
 - LinkedIn - pharma graduate programme UK: HTTP 200, 10 job-like links
+- LinkedIn - pricing market access intern Europe: HTTP 200, 8 job-like links
 - LinkedIn - supply chain graduate pharma UK: HTTP 200, 2 job-like links
 - Lonza graduate: HTTP 403, 0 job-like links
 - Lumanity careers: HTTP 200, 8 job-like links
+- Lumanity early careers: HTTP 200, 9 job-like links
 - Lundbeck graduate: HTTP 403, 0 job-like links
 - MSD UK search: HTTP 200, 13 job-like links
 - McKinsey UK jobs: FAILED Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.mckinsey.com/careers/search-jobs?countries=United%20Kingdom
@@ -130,7 +147,7 @@ navigating to "https://www.prescienthg.com/careers", waiting, 0 job-like links
 - Prospects pharma graduate: HTTP 404, 6 job-like links
 - Putnam careers: HTTP 200, 17 job-like links
 - Putnam greenhouse: HTTP 404, 0 job-like links
-- PwC graduate search: HTTP 200, 12 job-like links
+- PwC graduate search: HTTP 200, 6 job-like links
 - Remap Consulting careers: HTTP 200, 4 job-like links
 - Roche Basel graduate programme: HTTP 200, 13 job-like links
 - Roche graduate: HTTP 200, 8 job-like links
@@ -140,7 +157,7 @@ navigating to "https://www.prescienthg.com/careers", waiting, 0 job-like links
 - Simon-Kucher jobs: HTTP 404, 9 job-like links
 - Strategy& / PwC graduate strategy: HTTP 200, 19 job-like links
 - Syneos consulting jobs: HTTP 403, 0 job-like links
-- TARGETjobs consulting: HTTP 200, 83 job-like links
+- TARGETjobs consulting: HTTP 200, 81 job-like links
 - TARGETjobs pharma: HTTP 404, 6 job-like links
 - Takeda UK graduate: HTTP 200, 2 job-like links
 - Takeda workday graduate: HTTP 500, 0 job-like links
